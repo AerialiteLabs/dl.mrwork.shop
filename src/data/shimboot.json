@@ -1,9 +1,9 @@
 {
+  "lowercasename": "shimboot",
   "url": "https://api.github.com/repos/AerialiteLabs/shimboot/releases/246665853",
   "assets_url": "https://api.github.com/repos/AerialiteLabs/shimboot/releases/246665853/assets",
   "upload_url": "https://uploads.github.com/repos/AerialiteLabs/shimboot/releases/246665853/assets{?name,label}",
   "html_url": "https://github.com/AerialiteLabs/shimboot/releases/tag/v1.0.0",
-  "lowercasename": "shimboot",
   "id": 246665853,
   "author": {
     "login": "soap-phia",
@@ -68,7 +68,7 @@
       "state": "uploaded",
       "size": 1461774732,
       "digest": "sha256:307908190c524532c70e67cbf14d5cbb400eeafa568cc3882c79379d4c23ff34",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-12T03:51:45Z",
       "updated_at": "2025-09-12T03:52:21Z",
       "browser_download_url": "https://github.com/AerialiteLabs/shimboot/releases/download/v1.0.0/shimboot_banon.zip"
@@ -644,7 +644,7 @@
       "state": "uploaded",
       "size": 1380670863,
       "digest": "sha256:5282c0c6cb68107372eb0e3527e646608c29b54366e4b64926521d7b37112aaa",
-      "download_count": 0,
+      "download_count": 7,
       "created_at": "2025-09-12T04:38:50Z",
       "updated_at": "2025-09-12T04:39:36Z",
       "browser_download_url": "https://github.com/AerialiteLabs/shimboot/releases/download/v1.0.0/shimboot_jacuzzi.zip"
@@ -680,7 +680,7 @@
       "state": "uploaded",
       "size": 1467213078,
       "digest": "sha256:d7095a2d130f9a96bb3347144f19519f0ceab0eb9c8734ea2727a941d50eefdc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-12T03:51:52Z",
       "updated_at": "2025-09-12T03:52:25Z",
       "browser_download_url": "https://github.com/AerialiteLabs/shimboot/releases/download/v1.0.0/shimboot_kalista.zip"
@@ -896,7 +896,7 @@
       "state": "uploaded",
       "size": 1465869499,
       "digest": "sha256:1a843285709f1635bd218aad9293d3b1af7717e39c4f0e4254c8479d0c10c62b",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2025-09-12T04:07:58Z",
       "updated_at": "2025-09-12T04:08:53Z",
       "browser_download_url": "https://github.com/AerialiteLabs/shimboot/releases/download/v1.0.0/shimboot_octopus.zip"
@@ -1040,7 +1040,7 @@
       "state": "uploaded",
       "size": 1461716533,
       "digest": "sha256:691f5c877f5ae6988722756ef07c34a45def2e515efcd67a1a1d58a99c320e59",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-12T04:22:58Z",
       "updated_at": "2025-09-12T04:23:34Z",
       "browser_download_url": "https://github.com/AerialiteLabs/shimboot/releases/download/v1.0.0/shimboot_relm.zip"

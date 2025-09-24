@@ -1,10 +1,10 @@
 {
-  "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/239855212",
-  "assets_url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/239855212/assets",
-  "upload_url": "https://uploads.github.com/repos/AerialiteLabs/Aurora/releases/239855212/assets{?name,label}",
-  "html_url": "https://github.com/AerialiteLabs/Aurora/releases/tag/v1.0.0",
   "lowercasename": "aurora",
-  "id": 239855212,
+  "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/249699230",
+  "assets_url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/249699230/assets",
+  "upload_url": "https://uploads.github.com/repos/AerialiteLabs/Aurora/releases/249699230/assets{?name,label}",
+  "html_url": "https://github.com/AerialiteLabs/Aurora/releases/tag/v1.5.0",
+  "id": 249699230,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -26,21 +26,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO-FFfs4OS-Zs",
-  "tag_name": "v1.0.0",
+  "node_id": "RE_kwDOO-FFfs4O4hue",
+  "tag_name": "v1.5.0",
   "target_commitish": "alpine",
-  "name": "Aurora v1.0.0",
+  "name": "Aurora v1.5.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2025-08-14T03:49:00Z",
-  "updated_at": "2025-09-13T15:48:35Z",
-  "published_at": "2025-08-14T03:50:06Z",
+  "created_at": "2025-09-24T14:39:06Z",
+  "updated_at": "2025-09-24T14:46:35Z",
+  "published_at": "2025-09-24T14:40:50Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865009",
-      "id": 292865009,
-      "node_id": "RA_kwDOO-FFfs4RdMPx",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803111",
+      "id": 296803111,
+      "node_id": "RA_kwDOO-FFfs4RsNsn",
       "name": "ambassador-aurora.bin",
       "label": "",
       "uploader": {
@@ -67,16 +67,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:4e2d22b794370738129f3496bfe49a5c823207b55c5fc8157cbac8a13614e65f",
+      "digest": "sha256:5b05eec286b7e2bd56c80c46fafd1e253d62bb301c54137f2d2f0f101e76e691",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:34Z",
-      "updated_at": "2025-09-13T15:44:59Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/ambassador-aurora.bin"
+      "created_at": "2025-09-24T14:40:55Z",
+      "updated_at": "2025-09-24T14:41:10Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ambassador-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864929",
-      "id": 292864929,
-      "node_id": "RA_kwDOO-FFfs4RdMOh",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803261",
+      "id": 296803261,
+      "node_id": "RA_kwDOO-FFfs4RsNu9",
       "name": "banon-aurora.bin",
       "label": "",
       "uploader": {
@@ -103,16 +103,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:af4e6f75520af18094314d62f730fd82bcb6ae8f91e2cbacd93119eef3e4e391",
+      "digest": "sha256:2bfacf2e4df6cc93becb4ad90941247a0048257d82d08fb26e5202bae735300d",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:18Z",
-      "updated_at": "2025-09-13T15:43:34Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/banon-aurora.bin"
+      "created_at": "2025-09-24T14:41:31Z",
+      "updated_at": "2025-09-24T14:41:50Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/banon-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865110",
-      "id": 292865110,
-      "node_id": "RA_kwDOO-FFfs4RdMRW",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803161",
+      "id": 296803161,
+      "node_id": "RA_kwDOO-FFfs4RsNtZ",
       "name": "brask-aurora.bin",
       "label": "",
       "uploader": {
@@ -139,16 +139,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:8c55c7114977329d3c24b02810e3cbb504e853de7164487c5fddae1df40e42dd",
+      "digest": "sha256:9f4d6f875a75ec270e2e98135d58cf574f788e0aab5f84199bba86fe3f7580dc",
       "download_count": 0,
-      "created_at": "2025-09-13T15:45:59Z",
-      "updated_at": "2025-09-13T15:46:23Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/brask-aurora.bin"
+      "created_at": "2025-09-24T14:41:04Z",
+      "updated_at": "2025-09-24T14:41:28Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/brask-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864960",
-      "id": 292864960,
-      "node_id": "RA_kwDOO-FFfs4RdMPA",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803721",
+      "id": 296803721,
+      "node_id": "RA_kwDOO-FFfs4RsN2J",
       "name": "brya-aurora.bin",
       "label": "",
       "uploader": {
@@ -175,16 +175,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:37055744d603b4c8a27f233562555dc467868607682295b200f48553183852ac",
+      "digest": "sha256:86a3404faf26e3779fbbd6285f782e9e8ac03bf239fe779d28248d6f2f9b38b1",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:36Z",
-      "updated_at": "2025-09-13T15:44:01Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/brya-aurora.bin"
+      "created_at": "2025-09-24T14:42:58Z",
+      "updated_at": "2025-09-24T14:43:17Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/brya-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865043",
-      "id": 292865043,
-      "node_id": "RA_kwDOO-FFfs4RdMQT",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803473",
+      "id": 296803473,
+      "node_id": "RA_kwDOO-FFfs4RsNyR",
       "name": "clapper-aurora.bin",
       "label": "",
       "uploader": {
@@ -211,16 +211,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:b4f5ef569c37241b3633db9217d0d1bff3857ff7ca930ba8efbf9ebccd76c229",
+      "digest": "sha256:421b81330da222601c2db629e537e5ada1ca6c349dd6431be3a37799201e9ee2",
       "download_count": 0,
-      "created_at": "2025-09-13T15:45:01Z",
-      "updated_at": "2025-09-13T15:45:19Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/clapper-aurora.bin"
+      "created_at": "2025-09-24T14:42:14Z",
+      "updated_at": "2025-09-24T14:42:44Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/clapper-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865016",
-      "id": 292865016,
-      "node_id": "RA_kwDOO-FFfs4RdMP4",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803717",
+      "id": 296803717,
+      "node_id": "RA_kwDOO-FFfs4RsN2F",
       "name": "coral-aurora.bin",
       "label": "",
       "uploader": {
@@ -247,16 +247,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:79fb9e6b7f6f7a70febf9596d99ad0455c7a472bf90753178e1de7d869de440a",
+      "digest": "sha256:2379e530840c23f1adcd313628ff19f30749307bed24a9f47c5db0bbe746ff55",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:42Z",
-      "updated_at": "2025-09-13T15:45:09Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/coral-aurora.bin"
+      "created_at": "2025-09-24T14:42:57Z",
+      "updated_at": "2025-09-24T14:43:15Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/coral-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865238",
-      "id": 292865238,
-      "node_id": "RA_kwDOO-FFfs4RdMTW",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803537",
+      "id": 296803537,
+      "node_id": "RA_kwDOO-FFfs4RsNzR",
       "name": "corsola-aurora.bin",
       "label": "",
       "uploader": {
@@ -283,16 +283,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:2fc99658156ed1be7b31ff9d78925519822e4dde3c2fe8155a1a2e8aa5302e96",
+      "digest": "sha256:9a2493a835fd9b3c9903ac983b1cb97804e6e3a0719acb86cc9d04f5264f8e6e",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:33Z",
-      "updated_at": "2025-09-13T15:48:01Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/corsola-aurora.bin"
+      "created_at": "2025-09-24T14:42:23Z",
+      "updated_at": "2025-09-24T14:42:48Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/corsola-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865002",
-      "id": 292865002,
-      "node_id": "RA_kwDOO-FFfs4RdMPq",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804202",
+      "id": 296804202,
+      "node_id": "RA_kwDOO-FFfs4RsN9q",
       "name": "cyan-aurora.bin",
       "label": "",
       "uploader": {
@@ -319,16 +319,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:d5690ba942ebf4be12f065b1f90027dc8e27a7c847089eba16650d3738ca4de4",
+      "digest": "sha256:0b2a490fba879786eb709fce31774cb8534e20c5c46473edd1c45e73e39d6021",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:28Z",
-      "updated_at": "2025-09-13T15:44:46Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/cyan-aurora.bin"
+      "created_at": "2025-09-24T14:45:29Z",
+      "updated_at": "2025-09-24T14:45:45Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/cyan-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865007",
-      "id": 292865007,
-      "node_id": "RA_kwDOO-FFfs4RdMPv",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803459",
+      "id": 296803459,
+      "node_id": "RA_kwDOO-FFfs4RsNyD",
       "name": "dedede-aurora.bin",
       "label": "",
       "uploader": {
@@ -355,16 +355,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:b60046bc587d97279c273907854988e56e1551a2200f78fea9034095db45e47c",
+      "digest": "sha256:9ab8d1a52a7f36d8022be5cb991df53ee669875aa0cc19db37ac3c12e7d4f2dd",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:32Z",
-      "updated_at": "2025-09-13T15:44:51Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/dedede-aurora.bin"
+      "created_at": "2025-09-24T14:42:12Z",
+      "updated_at": "2025-09-24T14:42:34Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/dedede-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865088",
-      "id": 292865088,
-      "node_id": "RA_kwDOO-FFfs4RdMRA",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804017",
+      "id": 296804017,
+      "node_id": "RA_kwDOO-FFfs4RsN6x",
       "name": "edgar-aurora.bin",
       "label": "",
       "uploader": {
@@ -391,16 +391,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:73e3c23fba4e127eb8fc3bd8419857b0390779a5b01dd75f7b648d00cfceb2b8",
+      "digest": "sha256:f7a918ae7b11554ae70df3f8bf54e9207c17a7ef74fea9b44d70dfead93bd6b6",
       "download_count": 0,
-      "created_at": "2025-09-13T15:45:38Z",
-      "updated_at": "2025-09-13T15:46:03Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/edgar-aurora.bin"
+      "created_at": "2025-09-24T14:44:33Z",
+      "updated_at": "2025-09-24T14:44:56Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/edgar-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865018",
-      "id": 292865018,
-      "node_id": "RA_kwDOO-FFfs4RdMP6",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803521",
+      "id": 296803521,
+      "node_id": "RA_kwDOO-FFfs4RsNzB",
       "name": "elm-aurora.bin",
       "label": "",
       "uploader": {
@@ -427,16 +427,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:966e7e7cbd7a0d0a63af13e19b2ee7a2c390a966592426a60e8a99e4707990d3",
+      "digest": "sha256:94c35602c435af89597f18281fd31483e97e0899981db3307c19605b868a5f0a",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:44Z",
-      "updated_at": "2025-09-13T15:45:09Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/elm-aurora.bin"
+      "created_at": "2025-09-24T14:42:20Z",
+      "updated_at": "2025-09-24T14:42:43Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/elm-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865151",
-      "id": 292865151,
-      "node_id": "RA_kwDOO-FFfs4RdMR_",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803104",
+      "id": 296803104,
+      "node_id": "RA_kwDOO-FFfs4RsNsg",
       "name": "enguarde-aurora.bin",
       "label": "",
       "uploader": {
@@ -463,16 +463,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:023c814942794a017847aaaf69dc5ab02ddb85e080e76ce4b64d5ec54f2b0730",
+      "digest": "sha256:f841ae17013e257874410e5be0ed8ace8a57f06fa454b613ff979f130cd911ab",
       "download_count": 0,
-      "created_at": "2025-09-13T15:46:32Z",
-      "updated_at": "2025-09-13T15:46:44Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/enguarde-aurora.bin"
+      "created_at": "2025-09-24T14:40:51Z",
+      "updated_at": "2025-09-24T14:41:11Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/enguarde-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865087",
-      "id": 292865087,
-      "node_id": "RA_kwDOO-FFfs4RdMQ_",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803780",
+      "id": 296803780,
+      "node_id": "RA_kwDOO-FFfs4RsN3E",
       "name": "fizz-aurora.bin",
       "label": "",
       "uploader": {
@@ -499,16 +499,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:1ddfd46f956f21cc69ada5088c2aa2dce16c0165bc747f4cb7416afa68298ddf",
+      "digest": "sha256:f3476093c4a0f59850bba9f4e0d86ae16b1166a001795359e6cd490f13d5541f",
       "download_count": 0,
-      "created_at": "2025-09-13T15:45:37Z",
-      "updated_at": "2025-09-13T15:46:01Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/fizz-aurora.bin"
+      "created_at": "2025-09-24T14:43:23Z",
+      "updated_at": "2025-09-24T14:43:46Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/fizz-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864972",
-      "id": 292864972,
-      "node_id": "RA_kwDOO-FFfs4RdMPM",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803744",
+      "id": 296803744,
+      "node_id": "RA_kwDOO-FFfs4RsN2g",
       "name": "glimmer-aurora.bin",
       "label": "",
       "uploader": {
@@ -535,16 +535,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:858642bbb7a6914298c25a1b22a47fafb7f9730efadf69ce457f099a65485421",
+      "digest": "sha256:52f37a0e5afe9ecd9db632cf929d5de5154b38c9da25535c7e72e014ef3d2009",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:54Z",
-      "updated_at": "2025-09-13T15:44:13Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/glimmer-aurora.bin"
+      "created_at": "2025-09-24T14:43:02Z",
+      "updated_at": "2025-09-24T14:43:20Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/glimmer-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865037",
-      "id": 292865037,
-      "node_id": "RA_kwDOO-FFfs4RdMQN",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803138",
+      "id": 296803138,
+      "node_id": "RA_kwDOO-FFfs4RsNtC",
       "name": "grunt-aurora.bin",
       "label": "",
       "uploader": {
@@ -571,16 +571,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:9b7f5506196acc4b5039af77f9a7093842ca89edf87aa9b4839b31c71b3e0a97",
+      "digest": "sha256:62a6b52c0f0dbb2befa550bcc3979e311454cba297219f5f8bbea599cef76ea1",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:52Z",
-      "updated_at": "2025-09-13T15:45:13Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/grunt-aurora.bin"
+      "created_at": "2025-09-24T14:41:02Z",
+      "updated_at": "2025-09-24T14:41:22Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/grunt-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864995",
-      "id": 292864995,
-      "node_id": "RA_kwDOO-FFfs4RdMPj",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803335",
+      "id": 296803335,
+      "node_id": "RA_kwDOO-FFfs4RsNwH",
       "name": "hana-aurora.bin",
       "label": "",
       "uploader": {
@@ -607,16 +607,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:881866d17331d922c1204211f4782632b5fab7fc532cff165cb5cc94e500c57e",
+      "digest": "sha256:6e0e417b060443b997a347ae4b4ae143fc0d75ed991572d8b7787490691702dd",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:23Z",
-      "updated_at": "2025-09-13T15:44:41Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/hana-aurora.bin"
+      "created_at": "2025-09-24T14:41:49Z",
+      "updated_at": "2025-09-24T14:42:05Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/hana-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865142",
-      "id": 292865142,
-      "node_id": "RA_kwDOO-FFfs4RdMR2",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804346",
+      "id": 296804346,
+      "node_id": "RA_kwDOO-FFfs4RsN_6",
       "name": "hatch-aurora.bin",
       "label": "",
       "uploader": {
@@ -643,16 +643,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:cfdba2ad75d78ead328e4cdb0e9b45c41afded3953349d2900b45fab105b5d4e",
+      "digest": "sha256:32e9ad15efa9fcf076649ad94b6c33edd9f991347bf844b2c69572ec957ee536",
       "download_count": 0,
-      "created_at": "2025-09-13T15:46:26Z",
-      "updated_at": "2025-09-13T15:46:45Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/hatch-aurora.bin"
+      "created_at": "2025-09-24T14:46:04Z",
+      "updated_at": "2025-09-24T14:46:21Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/hatch-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864936",
-      "id": 292864936,
-      "node_id": "RA_kwDOO-FFfs4RdMOo",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803329",
+      "id": 296803329,
+      "node_id": "RA_kwDOO-FFfs4RsNwB",
       "name": "jacuzzi-aurora.bin",
       "label": "",
       "uploader": {
@@ -679,16 +679,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:4362d5b86fc243c0992bb6c108a4fc5c8974ef9764f101d10687bf3675b13a7d",
+      "digest": "sha256:a15386c06fb3af6603ff14bac4aebd811a86b2aedb1b8cef40daf5a0d14e7e24",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:20Z",
-      "updated_at": "2025-09-13T15:43:40Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/jacuzzi-aurora.bin"
+      "created_at": "2025-09-24T14:41:46Z",
+      "updated_at": "2025-09-24T14:42:06Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/jacuzzi-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865116",
-      "id": 292865116,
-      "node_id": "RA_kwDOO-FFfs4RdMRc",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803525",
+      "id": 296803525,
+      "node_id": "RA_kwDOO-FFfs4RsNzF",
       "name": "kalista-aurora.bin",
       "label": "",
       "uploader": {
@@ -715,16 +715,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:7985ef9e6535fdd3e1f450b7e121c41d6861f165536efa1513ff150740ae2e4e",
+      "digest": "sha256:c803cae2ffca5b8c885f595524c102294efc6afabf7b427b8a74ab98f5ab237a",
       "download_count": 0,
-      "created_at": "2025-09-13T15:46:04Z",
-      "updated_at": "2025-09-13T15:46:17Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/kalista-aurora.bin"
+      "created_at": "2025-09-24T14:42:22Z",
+      "updated_at": "2025-09-24T14:42:52Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/kalista-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864921",
-      "id": 292864921,
-      "node_id": "RA_kwDOO-FFfs4RdMOZ",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803448",
+      "id": 296803448,
+      "node_id": "RA_kwDOO-FFfs4RsNx4",
       "name": "kefka-aurora.bin",
       "label": "",
       "uploader": {
@@ -751,16 +751,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:038952dc9c89a97becc8c3f9051dc986aa368457984e92f2eca791314d411da6",
+      "digest": "sha256:beb8d0a636533c6df0193b94c0477b084c3eaf5670a8ae577e28dd61c1258fac",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:07Z",
-      "updated_at": "2025-09-13T15:43:24Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/kefka-aurora.bin"
+      "created_at": "2025-09-24T14:42:06Z",
+      "updated_at": "2025-09-24T14:42:24Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/kefka-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865199",
-      "id": 292865199,
-      "node_id": "RA_kwDOO-FFfs4RdMSv",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803411",
+      "id": 296803411,
+      "node_id": "RA_kwDOO-FFfs4RsNxT",
       "name": "kukui-aurora.bin",
       "label": "",
       "uploader": {
@@ -787,16 +787,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:adedf86b806af3efc5a03cfc7625fcd9b83806bebb6f37e1fea5a65abdd7c372",
+      "digest": "sha256:d56b7b65af2a095442e994a0a7e813e89d3a562d87fb746e2e4eb49f781e0ab9",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:14Z",
-      "updated_at": "2025-09-13T15:47:29Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/kukui-aurora.bin"
+      "created_at": "2025-09-24T14:41:52Z",
+      "updated_at": "2025-09-24T14:42:10Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/kukui-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864932",
-      "id": 292864932,
-      "node_id": "RA_kwDOO-FFfs4RdMOk",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803557",
+      "id": 296803557,
+      "node_id": "RA_kwDOO-FFfs4RsNzl",
       "name": "lulu-aurora.bin",
       "label": "",
       "uploader": {
@@ -823,16 +823,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:37f77b480ad34be8cd54c394c97841491019db75a1c7d379f0811d38b6426d6e",
+      "digest": "sha256:c7dc806efbb9e0560634e5a4132bdd0664d0fb2d39c540b2cf1d041701bb3009",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:19Z",
-      "updated_at": "2025-09-13T15:43:31Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/lulu-aurora.bin"
+      "created_at": "2025-09-24T14:42:26Z",
+      "updated_at": "2025-09-24T14:42:50Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/lulu-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865010",
-      "id": 292865010,
-      "node_id": "RA_kwDOO-FFfs4RdMPy",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803996",
+      "id": 296803996,
+      "node_id": "RA_kwDOO-FFfs4RsN6c",
       "name": "nami-aurora.bin",
       "label": "",
       "uploader": {
@@ -859,16 +859,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:ada252d4d1a1bba38b5f8f57893e19d8da4d7bf3f076a3f2f46542657d3a1014",
+      "digest": "sha256:67bc8d8f4ab72ef80e075d345ce0a4266a80bce62807d0007122a81e5c498515",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:37Z",
-      "updated_at": "2025-09-13T15:45:05Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/nami-aurora.bin"
+      "created_at": "2025-09-24T14:44:30Z",
+      "updated_at": "2025-09-24T14:44:46Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/nami-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865003",
-      "id": 292865003,
-      "node_id": "RA_kwDOO-FFfs4RdMPr",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803595",
+      "id": 296803595,
+      "node_id": "RA_kwDOO-FFfs4RsN0L",
       "name": "nissa-aurora.bin",
       "label": "",
       "uploader": {
@@ -895,16 +895,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:bced0a837683a1c40c2003058b1325c2753b817cc406efb30b09b1cdad418979",
+      "digest": "sha256:8b0942be53264e57ee923762142bfaaa47a803516ae55755a8105f099fc5c507",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:29Z",
-      "updated_at": "2025-09-13T15:44:47Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/nissa-aurora.bin"
+      "created_at": "2025-09-24T14:42:34Z",
+      "updated_at": "2025-09-24T14:43:02Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/nissa-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865175",
-      "id": 292865175,
-      "node_id": "RA_kwDOO-FFfs4RdMSX",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803524",
+      "id": 296803524,
+      "node_id": "RA_kwDOO-FFfs4RsNzE",
       "name": "octopus-aurora.bin",
       "label": "",
       "uploader": {
@@ -931,16 +931,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:6aaf999dfba4e1792be2fe6ba3fa2c38ea492e6d5818727a5de7c86e0e288ac4",
-      "download_count": 0,
-      "created_at": "2025-09-13T15:46:52Z",
-      "updated_at": "2025-09-13T15:47:07Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/octopus-aurora.bin"
+      "digest": "sha256:e5aedc47cd0b7fe60d9a981669cbfbf997eb2d9a7d05f10d1dd55653c7ee33b3",
+      "download_count": 3,
+      "created_at": "2025-09-24T14:42:22Z",
+      "updated_at": "2025-09-24T14:42:48Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/octopus-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865276",
-      "id": 292865276,
-      "node_id": "RA_kwDOO-FFfs4RdMT8",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803125",
+      "id": 296803125,
+      "node_id": "RA_kwDOO-FFfs4RsNs1",
       "name": "orco-aurora.bin",
       "label": "",
       "uploader": {
@@ -967,16 +967,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:5fd58fe17f3fcb75b3ff1431cae54c0d255d627ddc36674a8bbbf41a2797e856",
+      "digest": "sha256:1c2fb0482bdbe79f5aae7169cd506e3fc5d9fc9514fc4c62e7821087848b25ce",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:46Z",
-      "updated_at": "2025-09-13T15:48:11Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/orco-aurora.bin"
+      "created_at": "2025-09-24T14:40:58Z",
+      "updated_at": "2025-09-24T14:41:15Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/orco-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864974",
-      "id": 292864974,
-      "node_id": "RA_kwDOO-FFfs4RdMPO",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803424",
+      "id": 296803424,
+      "node_id": "RA_kwDOO-FFfs4RsNxg",
       "name": "puff-aurora.bin",
       "label": "",
       "uploader": {
@@ -1003,16 +1003,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:30391b27aac9d65e05653f969b86c4ee430f32c2311e079be4690ee4c6235231",
+      "digest": "sha256:4bd8c696efdb0714e576fdaf192110365e31978ad7b47ea0a4fbf379ff2a19cb",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:59Z",
-      "updated_at": "2025-09-13T15:44:16Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/puff-aurora.bin"
+      "created_at": "2025-09-24T14:41:58Z",
+      "updated_at": "2025-09-24T14:42:24Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/puff-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865106",
-      "id": 292865106,
-      "node_id": "RA_kwDOO-FFfs4RdMRS",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803807",
+      "id": 296803807,
+      "node_id": "RA_kwDOO-FFfs4RsN3f",
       "name": "pyro-aurora.bin",
       "label": "",
       "uploader": {
@@ -1039,16 +1039,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:ff3f8881401673f2b8017818524f3291e21700754c285d3c0fef1eae2e6896a8",
+      "digest": "sha256:c5ac18959663416b48c99d4c7f44a7fcd1bc8087e9df29b04d691ed1d7d67dac",
       "download_count": 0,
-      "created_at": "2025-09-13T15:45:56Z",
-      "updated_at": "2025-09-13T15:46:17Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/pyro-aurora.bin"
+      "created_at": "2025-09-24T14:43:38Z",
+      "updated_at": "2025-09-24T14:43:57Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/pyro-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865252",
-      "id": 292865252,
-      "node_id": "RA_kwDOO-FFfs4RdMTk",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804125",
+      "id": 296804125,
+      "node_id": "RA_kwDOO-FFfs4RsN8d",
       "name": "reef-aurora.bin",
       "label": "",
       "uploader": {
@@ -1075,16 +1075,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:518158a2778e2b728ef68c4f12aee35244069d087b05ee10321c0e6a6ab3ce01",
+      "digest": "sha256:4f2b14c5c295628df1b5f8fcf0aa6abd4f9dfd6ac1b70a8f60214335fee07838",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:37Z",
-      "updated_at": "2025-09-13T15:48:01Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/reef-aurora.bin"
+      "created_at": "2025-09-24T14:45:03Z",
+      "updated_at": "2025-09-24T14:45:21Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/reef-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865000",
-      "id": 292865000,
-      "node_id": "RA_kwDOO-FFfs4RdMPo",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804415",
+      "id": 296804415,
+      "node_id": "RA_kwDOO-FFfs4RsOA_",
       "name": "reks-aurora.bin",
       "label": "",
       "uploader": {
@@ -1111,16 +1111,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:9f35a2e9a013fe06750a3d80fdfc1ce96d3e3d7dadebb731292912e436040d2a",
+      "digest": "sha256:06be01bb9890c9bfbf7e46f0a8872f4ba0de5b9f45e136f32bfeb7625c34068b",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:26Z",
-      "updated_at": "2025-09-13T15:44:48Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/reks-aurora.bin"
+      "created_at": "2025-09-24T14:46:15Z",
+      "updated_at": "2025-09-24T14:46:35Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/reks-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865205",
-      "id": 292865205,
-      "node_id": "RA_kwDOO-FFfs4RdMS1",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804405",
+      "id": 296804405,
+      "node_id": "RA_kwDOO-FFfs4RsOA1",
       "name": "relm-aurora.bin",
       "label": "",
       "uploader": {
@@ -1147,16 +1147,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:ae1406b1e6a48fd99cb55558dc29cdd5ecf821856e4759fffc40f2295bc308c6",
+      "digest": "sha256:3a5eae9b3a53b10652d163aa2c4735a0efda70c99bbe440e16e643713e77a01f",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:16Z",
-      "updated_at": "2025-09-13T15:47:34Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/relm-aurora.bin"
+      "created_at": "2025-09-24T14:46:14Z",
+      "updated_at": "2025-09-24T14:46:33Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/relm-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865165",
-      "id": 292865165,
-      "node_id": "RA_kwDOO-FFfs4RdMSN",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804165",
+      "id": 296804165,
+      "node_id": "RA_kwDOO-FFfs4RsN9F",
       "name": "sand-aurora.bin",
       "label": "",
       "uploader": {
@@ -1183,16 +1183,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:346a3eefc2b0c347937e41b30185b59fb1f7bd59223bb4b8144e9d275b4d025c",
+      "digest": "sha256:0d812652576a36ebd1e539ef67b8b8b0c99e8a26dcf0f2c6958c55c219e7f17d",
       "download_count": 0,
-      "created_at": "2025-09-13T15:46:44Z",
-      "updated_at": "2025-09-13T15:47:02Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/sand-aurora.bin"
+      "created_at": "2025-09-24T14:45:15Z",
+      "updated_at": "2025-09-24T14:45:37Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/sand-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865375",
-      "id": 292865375,
-      "node_id": "RA_kwDOO-FFfs4RdMVf",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803164",
+      "id": 296803164,
+      "node_id": "RA_kwDOO-FFfs4RsNtc",
       "name": "sentry-aurora.bin",
       "label": "",
       "uploader": {
@@ -1219,16 +1219,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:1341a80aa20576482f0af645d224079caeeb64d0f30db71c135a1994e61c42ea",
+      "digest": "sha256:be1d045ef3c88fa96eff846f987ad1fe92afcbda4d24daa1082d78835b3d3f2c",
       "download_count": 0,
-      "created_at": "2025-09-13T15:48:10Z",
-      "updated_at": "2025-09-13T15:48:35Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/sentry-aurora.bin"
+      "created_at": "2025-09-24T14:41:05Z",
+      "updated_at": "2025-09-24T14:41:21Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/sentry-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865253",
-      "id": 292865253,
-      "node_id": "RA_kwDOO-FFfs4RdMTl",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803821",
+      "id": 296803821,
+      "node_id": "RA_kwDOO-FFfs4RsN3t",
       "name": "snappy-aurora.bin",
       "label": "",
       "uploader": {
@@ -1255,16 +1255,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:292149fcf3b116c30bda741a627961d2c95c6b74070439b77be8c9753a1459c3",
+      "digest": "sha256:762af10c43c567acbf85ae40df3a3ebbb8a51382ee272a2f815369650eadcb9e",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:37Z",
-      "updated_at": "2025-09-13T15:47:50Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/snappy-aurora.bin"
+      "created_at": "2025-09-24T14:43:45Z",
+      "updated_at": "2025-09-24T14:44:07Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/snappy-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865209",
-      "id": 292865209,
-      "node_id": "RA_kwDOO-FFfs4RdMS5",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804285",
+      "id": 296804285,
+      "node_id": "RA_kwDOO-FFfs4RsN-9",
       "name": "stout-aurora.bin",
       "label": "",
       "uploader": {
@@ -1291,16 +1291,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:c89adff7241de014729ae2ab1028138db0984b2341785f65005cab923306a2d0",
+      "digest": "sha256:43205551df1071c662341a091f9d5b01633198ef9babf8495e061b56937e8c56",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:22Z",
-      "updated_at": "2025-09-13T15:47:45Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/stout-aurora.bin"
+      "created_at": "2025-09-24T14:45:46Z",
+      "updated_at": "2025-09-24T14:46:13Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/stout-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865152",
-      "id": 292865152,
-      "node_id": "RA_kwDOO-FFfs4RdMSA",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803673",
+      "id": 296803673,
+      "node_id": "RA_kwDOO-FFfs4RsN1Z",
       "name": "strongbad-aurora.bin",
       "label": "",
       "uploader": {
@@ -1327,16 +1327,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:1ee1dd2948f9652501012409399cdd61f5ec735ac5067233f14e22e89617f024",
+      "digest": "sha256:4ae3d2e1b2056b356a906f92f0c98f29791fd4428c54c3115cd7bba917e21445",
       "download_count": 0,
-      "created_at": "2025-09-13T15:46:32Z",
-      "updated_at": "2025-09-13T15:46:50Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/strongbad-aurora.bin"
+      "created_at": "2025-09-24T14:42:50Z",
+      "updated_at": "2025-09-24T14:43:18Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/strongbad-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865198",
-      "id": 292865198,
-      "node_id": "RA_kwDOO-FFfs4RdMSu",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804155",
+      "id": 296804155,
+      "node_id": "RA_kwDOO-FFfs4RsN87",
       "name": "tidus-aurora.bin",
       "label": "",
       "uploader": {
@@ -1363,16 +1363,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:131c15b0e3108362b4084b46a5c3125601bc3afd0dba7be200734665543ea180",
+      "digest": "sha256:340aae3ea8eef871443c9854ae00639f432a6171b5bed10a1ffefc0ff38a034e",
       "download_count": 0,
-      "created_at": "2025-09-13T15:47:13Z",
-      "updated_at": "2025-09-13T15:47:34Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/tidus-aurora.bin"
+      "created_at": "2025-09-24T14:45:08Z",
+      "updated_at": "2025-09-24T14:45:28Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/tidus-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865129",
-      "id": 292865129,
-      "node_id": "RA_kwDOO-FFfs4RdMRp",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803560",
+      "id": 296803560,
+      "node_id": "RA_kwDOO-FFfs4RsNzo",
       "name": "trogdor-aurora.bin",
       "label": "",
       "uploader": {
@@ -1399,16 +1399,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:972fc473b20e241a634c7a55aa961526269489372b1e808c2a9a4e8133bd6291",
+      "digest": "sha256:4ebe127ff6e23e69a08643c3c4cab5662e85a85c1d5219fb1d023f697fc7ac5c",
       "download_count": 0,
-      "created_at": "2025-09-13T15:46:20Z",
-      "updated_at": "2025-09-13T15:46:37Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/trogdor-aurora.bin"
+      "created_at": "2025-09-24T14:42:26Z",
+      "updated_at": "2025-09-24T14:42:44Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/trogdor-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865042",
-      "id": 292865042,
-      "node_id": "RA_kwDOO-FFfs4RdMQS",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803745",
+      "id": 296803745,
+      "node_id": "RA_kwDOO-FFfs4RsN2h",
       "name": "ultima-aurora.bin",
       "label": "",
       "uploader": {
@@ -1435,16 +1435,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:68be182dbc0847a5a172efa2d91dafb5e9e0792e0d8de1d17342c9eedbbbe0d9",
+      "digest": "sha256:d406d3e1f50c371ed06e04cf5df041900e111e592d03bd8268df95df29e5a333",
       "download_count": 0,
-      "created_at": "2025-09-13T15:45:00Z",
-      "updated_at": "2025-09-13T15:45:26Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/ultima-aurora.bin"
+      "created_at": "2025-09-24T14:43:03Z",
+      "updated_at": "2025-09-24T14:43:29Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ultima-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292865012",
-      "id": 292865012,
-      "node_id": "RA_kwDOO-FFfs4RdMP0",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296804024",
+      "id": 296804024,
+      "node_id": "RA_kwDOO-FFfs4RsN64",
       "name": "volteer-aurora.bin",
       "label": "",
       "uploader": {
@@ -1471,16 +1471,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:448eae2a556b01edd2465a5861d92ad60deb5f8d443930aecd27b78f539b83ec",
+      "digest": "sha256:413918f78bb8b48857b8c20fe0ad1058c59023fcb0fdc503e491808bd49eb471",
       "download_count": 0,
-      "created_at": "2025-09-13T15:44:39Z",
-      "updated_at": "2025-09-13T15:44:58Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/volteer-aurora.bin"
+      "created_at": "2025-09-24T14:44:35Z",
+      "updated_at": "2025-09-24T14:44:55Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/volteer-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/292864923",
-      "id": 292864923,
-      "node_id": "RA_kwDOO-FFfs4RdMOb",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/296803829",
+      "id": 296803829,
+      "node_id": "RA_kwDOO-FFfs4RsN31",
       "name": "zork-aurora.bin",
       "label": "",
       "uploader": {
@@ -1507,14 +1507,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 710860800,
-      "digest": "sha256:e51ce4beaa4ba51f84870046de5833023813091e1ba6279d4b3c8cc93c582ea8",
+      "digest": "sha256:2f0902fec2d32ddd0e8ff44fd3f928f7057d35d7b3f4439a56b7c4d8763fbbb3",
       "download_count": 0,
-      "created_at": "2025-09-13T15:43:14Z",
-      "updated_at": "2025-09-13T15:43:30Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/zork-aurora.bin"
+      "created_at": "2025-09-24T14:43:53Z",
+      "updated_at": "2025-09-24T14:44:21Z",
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/zork-aurora.bin"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/tarball/v1.0.0",
-  "zipball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/zipball/v1.0.0",
+  "tarball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/tarball/v1.5.0",
+  "zipball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/zipball/v1.5.0",
   "body": ""
 }
