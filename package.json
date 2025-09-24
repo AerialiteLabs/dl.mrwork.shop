@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "./updatedata.sh && git add . && git commit -m update && git push",
+    "build": "astro build",
+    "publish": "./updatedata.sh && git add . && git commit -m update && git push",
     "preview": "astro preview",
     "astro": "astro"
   },
