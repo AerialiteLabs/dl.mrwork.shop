@@ -3,6 +3,7 @@
   "assets_url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/238051087/assets",
   "upload_url": "https://uploads.github.com/repos/AerialiteLabs/sh1mmer/releases/238051087/assets{?name,label}",
   "html_url": "https://github.com/AerialiteLabs/sh1mmer/releases/tag/v2.0.0",
+  "lowercasename": "sh1mmer",
   "id": 238051087,
   "author": {
     "login": "github-actions[bot]",

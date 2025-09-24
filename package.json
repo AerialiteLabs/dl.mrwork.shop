@@ -9,7 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.13.3",
+    "astro": "^5.13.7",
     "date-fns": "^4.1.0"
   },
   "description": "```sh npm create astro@latest -- --template minimal ```",

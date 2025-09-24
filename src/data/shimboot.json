@@ -3,6 +3,7 @@
   "assets_url": "https://api.github.com/repos/AerialiteLabs/shimboot/releases/246665853/assets",
   "upload_url": "https://uploads.github.com/repos/AerialiteLabs/shimboot/releases/246665853/assets{?name,label}",
   "html_url": "https://github.com/AerialiteLabs/shimboot/releases/tag/v1.0.0",
+  "lowercasename": "shimboot",
   "id": 246665853,
   "author": {
     "login": "soap-phia",
