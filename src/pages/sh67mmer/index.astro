@@ -3,7 +3,6 @@ import releaseData from '../../data/sh67mmer.json';
 import { format } from 'date-fns';
 
 const releasename = releaseData.name.replace(/v.*$/, "").trim();
-const id = releaseData.lowercasename;
 
 const assets = releaseData.assets.map(asset => ({
   name: asset.name,
