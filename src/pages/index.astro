@@ -1,4 +1,5 @@
 ---
+import Sidebar from "../components/Sidebar.astro";
 import { getLinks } from "../data/links";
 const links = getLinks();
 ---
@@ -26,16 +27,7 @@ const links = getLinks();
 	</div>
 
 	<div class="overlay" id="overlay">
-	<div class="sidebar">
-	<img src="/download.png" alt="Download Logo" />
-	{links.map(link => (
-		link.heading ? (
-		<a href={link.href}><h2>{link.label}</h2></a>
-		) : (
-		<a href={link.href}>{link.label}</a>
-		)
-	))}
-	</div>
+	<Sidebar/>
 	</div>
 
 	<script>
@@ -63,11 +55,10 @@ const links = getLinks();
 	<img src="logo.png" width="16%">
     <h1>Mr. Workshop's Download Server</h1>
 	<h2>Oh, there goes Mr. Workshop, There goes Mr. Grim<br>If they gave a prize for best downloads the winner would be him</h2>
-	<button class="file" onclick="window.location.href='/aurora'">Aurora</button>
-	<button class="file" onclick="window.location.href='/sh67mmer'">SH67MMER</button>
-	<button class="file" onclick="window.location.href='/sh1mmer'">SH1MMER</button>
-	<button class="file" onclick="window.location.href='/br0ker'">Br0ker</button>
-	<button class="file" onclick="window.location.href='/nanoshims'">Nanoshims</button>
-	<button class="file" onclick="window.location.href='/shimboot'">Shimboot</button>
+	{links.map((link) => (
+		!link.heading && (
+			<button class="file" onclick={`window.location.href='${link.href}'`}>{link.label}</button>
+		)
+	))}
   </body>
 </html>
