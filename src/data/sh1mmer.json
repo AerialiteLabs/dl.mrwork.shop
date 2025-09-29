@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 257837056,
       "digest": "sha256:a36ece53fd1e5aaf952988bc0d555edaeb33f8645d4eda48ad484c6b4b466796",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2025-09-03T15:03:57Z",
       "updated_at": "2025-09-03T15:04:08Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/coral.bin"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 257943552,
       "digest": "sha256:30586a815aa0dd65ff5bd3a48a1dd2a17763e183b430885ac1ff2ec6c4ba08d8",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2025-09-03T15:04:30Z",
       "updated_at": "2025-09-03T15:04:37Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/grunt.bin"

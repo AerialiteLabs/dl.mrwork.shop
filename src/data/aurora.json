@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:5a5e97da8b536df33ce9c633e559c55e988832e8c439be549032c81ee6d9e178",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2025-09-25T14:30:44Z",
       "updated_at": "2025-09-25T14:31:00Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ambassador-aurora.bin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:df322f8f2b14f50bcbcfc9a6be41fa63108968e71cb9ff5f32bc7084f666a7a8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-25T14:30:08Z",
       "updated_at": "2025-09-25T14:30:31Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/banon-aurora.bin"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:a1928a32ea9d1da8f9c9a63789f18c82da0017930ac5c364fd461465526416dc",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2025-09-25T14:32:53Z",
       "updated_at": "2025-09-25T14:33:17Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/nissa-aurora.bin"
