@@ -1,5 +1,4 @@
 {
-  "lowercasename": "sh67mmer",
   "url": "https://api.github.com/repos/AerialiteLabs/sh67mmer/releases/249551342",
   "assets_url": "https://api.github.com/repos/AerialiteLabs/sh67mmer/releases/249551342/assets",
   "upload_url": "https://uploads.github.com/repos/AerialiteLabs/sh67mmer/releases/249551342/assets{?name,label}",
@@ -68,7 +67,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:47396c8922e618c1d1aeb8cab1d2ab57a73af9a707e41d22c003f774c6354dea",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-24T05:47:54Z",
       "updated_at": "2025-09-24T05:47:56Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-ambassador.bin"
@@ -212,7 +211,7 @@
       "state": "uploaded",
       "size": 38814720,
       "digest": "sha256:36b29218f90c0d7d33e465c38da0d46ca919915ebc41b068a98ead4507c511be",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-24T05:50:32Z",
       "updated_at": "2025-09-24T05:50:34Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-clapper.bin"
@@ -356,7 +355,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:d520e22af84818320ae6447209b02d89f42926c805963cb73bcbed14b9a207ba",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2025-09-24T05:50:41Z",
       "updated_at": "2025-09-24T05:50:43Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-dedede.bin"
@@ -896,7 +895,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:1faaf567dc19dc3726ee289498d7997ee269f4acf51dc388a6ae508f6fef7f7e",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2025-09-24T05:56:52Z",
       "updated_at": "2025-09-24T05:56:54Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-nissa.bin"
@@ -932,7 +931,7 @@
       "state": "uploaded",
       "size": 47203328,
       "digest": "sha256:2c6c129f9fdd836fa70b66c3190bea0e18e430466ca087b19dd1c8d6f79c4617",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2025-09-24T05:50:13Z",
       "updated_at": "2025-09-24T05:50:14Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-octopus.bin"
@@ -1256,7 +1255,7 @@
       "state": "uploaded",
       "size": 31474688,
       "digest": "sha256:873287d151e41195914491b253fb1ee748a94ab1b02dafe64cbcbbfc7bb5e5c8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-24T05:52:27Z",
       "updated_at": "2025-09-24T05:52:28Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-snappy.bin"
