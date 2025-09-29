@@ -1,4 +1,5 @@
 ---
+import Sidebar from "../../components/Sidebar.astro";
 import releaseData from '../../data/nanoshims.json';
 import { format } from 'date-fns';
 
@@ -37,18 +38,7 @@ const assets = releaseData.assets.map(asset => ({
 	</div>
 
 	<div class="overlay" id="overlay">
-	<div class="sidebar">
-		<img src="/download.png">
-		<a href="/"><h2>Mr. Workshop's Download Server</h2></a>
-		<a href="/aurora">Aurora</a>
-		<a href="/sh1mmer">SH1MMER</a>
-		<a href="/nanoshims">Nanoshims</a>
-		<a href="/br0ker">Br0ker</a>
-		<a href="/shimboot">Shimboot</a>
-		<a href="/picoshim">PicoShim</a>
-		<a href="/kvs">KVS</a>
-		<a href="/sh67mmer">SH67MMER</a>
-	</div>
+	<Sidebar/>
 	</div>
 
 	<script>
