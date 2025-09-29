@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:5a5e97da8b536df33ce9c633e559c55e988832e8c439be549032c81ee6d9e178",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2025-09-25T14:30:44Z",
       "updated_at": "2025-09-25T14:31:00Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ambassador-aurora.bin"

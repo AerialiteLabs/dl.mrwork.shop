@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 283985920,
       "digest": "sha256:3bb3aadddf83cb8952fb593f9d8d4ab35821cd1cc6bb93008ae0798f16d04e6b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-09-03T15:05:37Z",
       "updated_at": "2025-09-03T15:05:44Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/ambassador.bin"
