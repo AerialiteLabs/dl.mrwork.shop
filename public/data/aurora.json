@@ -2,7 +2,7 @@
   "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/249699230",
   "assets_url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/249699230/assets",
   "upload_url": "https://uploads.github.com/repos/AerialiteLabs/Aurora/releases/249699230/assets{?name,label}",
-  "html_url": "https://github.com/AerialiteLabs/Aurora/releases/tag/v1.5.0",
+  "html_url": "https://github.com/AerialiteLabs/Aurora/releases/tag/Shrimp",
   "id": 249699230,
   "author": {
     "login": "github-actions[bot]",
@@ -26,9 +26,9 @@
     "site_admin": false
   },
   "node_id": "RE_kwDOO-FFfs4O4hue",
-  "tag_name": "v1.5.0",
+  "tag_name": "Shrimp",
   "target_commitish": "alpine",
-  "name": "Aurora v1.5.0",
+  "name": "Aurora",
   "draft": false,
   "immutable": false,
   "prerelease": false,
@@ -67,10 +67,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:5a5e97da8b536df33ce9c633e559c55e988832e8c439be549032c81ee6d9e178",
-      "download_count": 1,
+      "download_count": 10,
       "created_at": "2025-09-25T14:30:44Z",
       "updated_at": "2025-09-25T14:31:00Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ambassador-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/ambassador-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185197",
@@ -103,10 +103,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:df322f8f2b14f50bcbcfc9a6be41fa63108968e71cb9ff5f32bc7084f666a7a8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-25T14:30:08Z",
       "updated_at": "2025-09-25T14:30:31Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/banon-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/banon-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297186296",
@@ -142,7 +142,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:33:26Z",
       "updated_at": "2025-09-25T14:33:53Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/brask-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/brask-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184926",
@@ -178,7 +178,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:28:55Z",
       "updated_at": "2025-09-25T14:29:15Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/brya-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/brya-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185137",
@@ -214,7 +214,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:55Z",
       "updated_at": "2025-09-25T14:30:16Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/clapper-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/clapper-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184952",
@@ -247,10 +247,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:5daa1f5142c8e862ffada2f23f50001e5666c3ce852f26cdb1e8d1a738a9d5a4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2025-09-25T14:29:03Z",
       "updated_at": "2025-09-25T14:29:23Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/coral-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/coral-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184981",
@@ -283,10 +283,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:d4a07bc5a9ab5f2e28adaf43de6004e8033ac1146cf9d9041cc2b427a5dad8b6",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-25T14:29:10Z",
       "updated_at": "2025-09-25T14:29:31Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/corsola-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/corsola-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184980",
@@ -322,7 +322,7 @@
       "download_count": 1,
       "created_at": "2025-09-25T14:29:09Z",
       "updated_at": "2025-09-25T14:29:30Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/cyan-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/cyan-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297186088",
@@ -358,7 +358,7 @@
       "download_count": 4,
       "created_at": "2025-09-25T14:32:35Z",
       "updated_at": "2025-09-25T14:32:54Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/dedede-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/dedede-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185628",
@@ -394,7 +394,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:12Z",
       "updated_at": "2025-09-25T14:31:31Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/edgar-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/edgar-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297186112",
@@ -430,7 +430,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:32:40Z",
       "updated_at": "2025-09-25T14:32:58Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/elm-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/elm-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185472",
@@ -466,7 +466,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:30:48Z",
       "updated_at": "2025-09-25T14:31:22Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/enguarde-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/enguarde-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184989",
@@ -502,7 +502,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:12Z",
       "updated_at": "2025-09-25T14:29:32Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/fizz-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/fizz-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185579",
@@ -538,7 +538,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:04Z",
       "updated_at": "2025-09-25T14:31:31Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/glimmer-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/glimmer-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185018",
@@ -574,7 +574,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:21Z",
       "updated_at": "2025-09-25T14:29:45Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/grunt-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/grunt-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185922",
@@ -610,7 +610,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:58Z",
       "updated_at": "2025-09-25T14:32:19Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/hana-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/hana-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185456",
@@ -646,7 +646,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:30:44Z",
       "updated_at": "2025-09-25T14:31:13Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/hatch-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/hatch-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185970",
@@ -682,7 +682,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:32:08Z",
       "updated_at": "2025-09-25T14:32:25Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/jacuzzi-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/jacuzzi-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185774",
@@ -718,7 +718,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:33Z",
       "updated_at": "2025-09-25T14:31:52Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/kalista-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/kalista-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185432",
@@ -754,7 +754,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:30:38Z",
       "updated_at": "2025-09-25T14:31:01Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/kefka-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/kefka-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185004",
@@ -790,7 +790,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:18Z",
       "updated_at": "2025-09-25T14:29:35Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/kukui-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/kukui-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185893",
@@ -826,7 +826,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:53Z",
       "updated_at": "2025-09-25T14:32:15Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/lulu-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/lulu-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184960",
@@ -862,7 +862,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:03Z",
       "updated_at": "2025-09-25T14:29:25Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/nami-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/nami-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297186164",
@@ -895,10 +895,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:a1928a32ea9d1da8f9c9a63789f18c82da0017930ac5c364fd461465526416dc",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2025-09-25T14:32:53Z",
       "updated_at": "2025-09-25T14:33:17Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/nissa-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/nissa-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297186323",
@@ -931,10 +931,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:be2e5c8ed7f55aa65edc807f24849ac6f98440e903a68f3f2bdda13309630e21",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2025-09-25T14:33:35Z",
       "updated_at": "2025-09-25T14:33:56Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/octopus-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/octopus-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185102",
@@ -970,7 +970,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:51Z",
       "updated_at": "2025-09-25T14:30:08Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/orco-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/orco-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185450",
@@ -1006,7 +1006,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:30:43Z",
       "updated_at": "2025-09-25T14:30:59Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/puff-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/puff-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185767",
@@ -1042,7 +1042,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:32Z",
       "updated_at": "2025-09-25T14:31:57Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/pyro-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/pyro-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185112",
@@ -1078,7 +1078,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:52Z",
       "updated_at": "2025-09-25T14:30:10Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/reef-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/reef-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185147",
@@ -1114,7 +1114,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:59Z",
       "updated_at": "2025-09-25T14:30:18Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/reks-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/reks-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185968",
@@ -1150,7 +1150,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:32:06Z",
       "updated_at": "2025-09-25T14:32:22Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/relm-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/relm-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185795",
@@ -1186,7 +1186,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:36Z",
       "updated_at": "2025-09-25T14:31:52Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/sand-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/sand-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185408",
@@ -1222,7 +1222,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:30:35Z",
       "updated_at": "2025-09-25T14:30:52Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/sentry-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/sentry-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297184945",
@@ -1255,10 +1255,10 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:0026261f50c9aed3bdf185228604b68bda398f555a88725ccc4748ef9e978552",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2025-09-25T14:29:00Z",
       "updated_at": "2025-09-25T14:29:22Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/snappy-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/snappy-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185643",
@@ -1294,7 +1294,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:14Z",
       "updated_at": "2025-09-25T14:31:34Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/stout-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/stout-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297186348",
@@ -1330,7 +1330,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:33:44Z",
       "updated_at": "2025-09-25T14:34:10Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/strongbad-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/strongbad-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185141",
@@ -1366,7 +1366,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:29:56Z",
       "updated_at": "2025-09-25T14:30:15Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/tidus-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/tidus-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185923",
@@ -1402,7 +1402,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:58Z",
       "updated_at": "2025-09-25T14:32:16Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/trogdor-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/trogdor-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185466",
@@ -1438,7 +1438,7 @@
       "download_count": 1,
       "created_at": "2025-09-25T14:30:47Z",
       "updated_at": "2025-09-25T14:31:01Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ultima-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/ultima-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185985",
@@ -1474,7 +1474,7 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:32:13Z",
       "updated_at": "2025-09-25T14:32:28Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/volteer-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/volteer-aurora.bin"
     },
     {
       "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/297185710",
@@ -1510,10 +1510,10 @@
       "download_count": 0,
       "created_at": "2025-09-25T14:31:24Z",
       "updated_at": "2025-09-25T14:31:43Z",
-      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/zork-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/Shrimp/zork-aurora.bin"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/tarball/v1.5.0",
-  "zipball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/zipball/v1.5.0",
+  "tarball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/tarball/Shrimp",
+  "zipball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/zipball/Shrimp",
   "body": ""
 }
