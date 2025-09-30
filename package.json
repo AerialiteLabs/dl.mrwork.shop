@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "cp -r src/data public/data && astro build",
-    "publish": "./updatedata.sh && git add . && git commit -m update && git push",
+    "publish": "./updatedata.sh && git add . && git commit -m update && git push && cd redirect && npx wrangler deploy && cd ..",
     "preview": "astro preview",
     "astro": "astro"
   },
