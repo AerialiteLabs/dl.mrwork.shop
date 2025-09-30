@@ -16,3 +16,5 @@ sed -i 's/"name": "v1\.3\.0",/"name": "Shimboot v1.3.0",/' src/data/shimboot.jso
 curl -s https://api.github.com/repos/AerialiteLabs/kvs/releases/tags/v2.0.0 -o src/data/kvs.json
 
 curl -s https://api.github.com/repos/AerialiteLabs/picoshim/releases/tags/v1.0.0 -o src/data/picoshim.json
+
+cp src/data/*.json public/data/
