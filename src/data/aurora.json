@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:5a5e97da8b536df33ce9c633e559c55e988832e8c439be549032c81ee6d9e178",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2025-09-25T14:30:44Z",
       "updated_at": "2025-09-25T14:31:00Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/ambassador-aurora.bin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:5daa1f5142c8e862ffada2f23f50001e5666c3ce852f26cdb1e8d1a738a9d5a4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2025-09-25T14:29:03Z",
       "updated_at": "2025-09-25T14:29:23Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/coral-aurora.bin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:d4a07bc5a9ab5f2e28adaf43de6004e8033ac1146cf9d9041cc2b427a5dad8b6",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-25T14:29:10Z",
       "updated_at": "2025-09-25T14:29:31Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/corsola-aurora.bin"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:a1928a32ea9d1da8f9c9a63789f18c82da0017930ac5c364fd461465526416dc",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2025-09-25T14:32:53Z",
       "updated_at": "2025-09-25T14:33:17Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/nissa-aurora.bin"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:be2e5c8ed7f55aa65edc807f24849ac6f98440e903a68f3f2bdda13309630e21",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2025-09-25T14:33:35Z",
       "updated_at": "2025-09-25T14:33:56Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/octopus-aurora.bin"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 710860800,
       "digest": "sha256:0026261f50c9aed3bdf185228604b68bda398f555a88725ccc4748ef9e978552",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2025-09-25T14:29:00Z",
       "updated_at": "2025-09-25T14:29:22Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.5.0/snappy-aurora.bin"

@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 257837056,
       "digest": "sha256:a36ece53fd1e5aaf952988bc0d555edaeb33f8645d4eda48ad484c6b4b466796",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2025-09-03T15:03:57Z",
       "updated_at": "2025-09-03T15:04:08Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/coral.bin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 315721728,
       "digest": "sha256:df877e43afa77ec38d5337c715c7d7c94f4466499d03c6c3e84ca1a65a460765",
-      "download_count": 116,
+      "download_count": 117,
       "created_at": "2025-09-03T15:01:48Z",
       "updated_at": "2025-09-03T15:01:59Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/dedede.bin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 382793728,
       "digest": "sha256:97a49e201353b630a97219f2fd6ee2de4b1635ed4bb781d4400ada272203b134",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2025-09-18T17:28:22Z",
       "updated_at": "2025-09-18T17:28:34Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/jacuzzi.bin"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 415696896,
       "digest": "sha256:d06e04824717f64d3b48d20abfa3b706f08771689bf75c18c01de25b3523147e",
-      "download_count": 119,
+      "download_count": 121,
       "created_at": "2025-09-03T15:03:27Z",
       "updated_at": "2025-09-03T15:03:37Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/octopus.bin"

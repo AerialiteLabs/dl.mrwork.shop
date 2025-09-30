@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1455090837,
       "digest": "sha256:b2dbd088358ce81005cfd2ce1b8b9aa0a753e408c18967cb7d5a9771148988dd",
-      "download_count": 215,
+      "download_count": 218,
       "created_at": "2025-06-02T04:45:38Z",
       "updated_at": "2025-06-02T04:46:08Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_coral.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1375558609,
       "digest": "sha256:15e3863a86e9327cbfa8a9ec335facfc9185a8943cb3a3f472429104c4822a2e",
-      "download_count": 295,
+      "download_count": 299,
       "created_at": "2025-06-02T05:02:25Z",
       "updated_at": "2025-06-02T05:03:06Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_corsola.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1460269826,
       "digest": "sha256:c3f01a91a5272afd61cc0012751c8e0c6cb0bbf2f99af5d2500ac94515374d54",
-      "download_count": 1558,
+      "download_count": 1569,
       "created_at": "2025-06-02T04:45:57Z",
       "updated_at": "2025-06-02T04:46:54Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_dedede.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1457434017,
       "digest": "sha256:caae411def8cc7add5b6882ccc189f0773a987c3d3234b6a1217f02393545011",
-      "download_count": 411,
+      "download_count": 414,
       "created_at": "2025-06-02T04:48:17Z",
       "updated_at": "2025-06-02T04:49:06Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_grunt.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1372027424,
       "digest": "sha256:3220d031460eb4b174b314b223a50132de88b2e8279c6981ec64b41f2f22d11d",
-      "download_count": 237,
+      "download_count": 239,
       "created_at": "2025-06-02T05:03:12Z",
       "updated_at": "2025-06-02T05:04:00Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_jacuzzi.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1464961023,
       "digest": "sha256:2488c9e26dabee17145eb6fd08e3d5afae06885867f8ecd6b247239ff126a0cd",
-      "download_count": 567,
+      "download_count": 569,
       "created_at": "2025-06-02T04:48:49Z",
       "updated_at": "2025-06-02T04:49:24Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_nissa.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1458033374,
       "digest": "sha256:195ed77a8843f45b6043a3c555fba4d7e4b0cc8fb055b35a30520b660cfac25a",
-      "download_count": 1583,
+      "download_count": 1592,
       "created_at": "2025-06-02T04:45:54Z",
       "updated_at": "2025-06-02T04:46:24Z",
       "browser_download_url": "https://github.com/ading2210/shimboot/releases/download/v1.3.0/shimboot_octopus.zip"
