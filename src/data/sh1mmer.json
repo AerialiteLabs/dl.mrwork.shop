@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 255232000,
       "digest": "sha256:890101ab042446286970c9f70d838c741c0037249ea6ed9ff70eb1039cb85cf9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2025-09-03T15:04:51Z",
       "updated_at": "2025-09-03T15:04:57Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/clapper.bin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 315721728,
       "digest": "sha256:df877e43afa77ec38d5337c715c7d7c94f4466499d03c6c3e84ca1a65a460765",
-      "download_count": 117,
+      "download_count": 118,
       "created_at": "2025-09-03T15:01:48Z",
       "updated_at": "2025-09-03T15:01:59Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/dedede.bin"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 469362688,
       "digest": "sha256:4324c147eb311525981754ffa73a2d06fea63aa3480bb1a81242e4f5db985e2a",
-      "download_count": 47,
+      "download_count": 50,
       "created_at": "2025-09-03T15:02:03Z",
       "updated_at": "2025-09-03T15:02:20Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/nissa.bin"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 408332288,
       "digest": "sha256:1415130db8f1c71653b0971970e53b4d6de08195fe9e99a0f1ee91ca56cba780",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2025-09-03T15:11:35Z",
       "updated_at": "2025-09-03T15:11:46Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/zork.bin"

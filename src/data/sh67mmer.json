@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:d520e22af84818320ae6447209b02d89f42926c805963cb73bcbed14b9a207ba",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2025-09-24T05:50:41Z",
       "updated_at": "2025-09-24T05:50:43Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh67mmer/releases/download/v67/sh67mmer-dedede.bin"
