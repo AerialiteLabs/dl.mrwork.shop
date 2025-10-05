@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta property="og:title" content="Mr. Workshop's Download Server">
+    <meta property="og:description" content="If they gave a prize for best downloads the winner would be him">
+    <meta property="og:image" content="/preview.png">
+    <link rel="icon" type="image/png" href="/download.png">
+    <link rel="stylesheet" href="/style.css">
+    <meta name="viewport" content="width=device-width">
+    <title>Mr. Workshop's Download Server</title>
+    <style>
+        .clickable { cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <button class="nav" id="nav"><span></span><span></span><span></span></button>
+    </div>
+    <div class="overlay" id="overlay">
+        <div class="sidebar" id="sidebar"></div>
+    </div>
+
+    <img id="logo" src="/logo.png" width="16%">
+    <h1 id="title">Mr. Workshop's Download Server</h1>
+    <h2 id="subtitle">Oh, there goes Mr. Workshop, There goes Mr. Grim<br>If they gave a prize for best downloads the winner would be him</h2>
+    <div class="main" id="main"></div>
+
+    <script>
+        const nav = document.getElementById("nav")
+        const overlay = document.getElementById("overlay")
+        const sidebar = document.getElementById("sidebar")
+        const main = document.getElementById("main")
+        const title = document.getElementById("title")
+        const subtitle = document.getElementById("subtitle")
+        const logo = document.getElementById("logo")
+
+        nav.onclick = () => { overlay.classList.toggle("active"); nav.classList.toggle("active") }
+        overlay.onclick = e => { if (e.target === overlay) overlay.classList.remove("active"); nav.classList.remove("active") }
+        document.onkeydown = e => { if (e.key === "Escape") { overlay.classList.remove("active"); nav.classList.remove("active") } }
+
+        function formatSize(bytes) {
+            if (!bytes) return ""
+            const units = ["B","KiB","MiB","GiB","TiB"]
+            let u = 0
+            while (bytes >= 1024 && u < units.length-1) { bytes/=1024; u++ }
+            return bytes.toFixed(2) + " " + units[u]
+        }
+
+        function formatDate(d) {
+            const date = new Date(d)
+            return isNaN(date) ? "Unknown" : date.toISOString().split("T")[0]
+        }
+
+        async function loadSidebar() {
+            try {
+                const res = await fetch("/data/links.json")
+                const links = await res.json()
+                sidebar.innerHTML = "<img src='/download.png' alt='Download Logo'>"
+                links.forEach(link => {
+                    const el = document.createElement("div")
+                    el.className = "clickable"
+                    el.textContent = link.heading ? link.label : link.label
+                    el.onclick = () => { navigate(link.href); overlay.classList.remove("active"); nav.classList.remove("active") }
+                    if (link.heading) el.style.fontWeight = "bold"
+                    sidebar.appendChild(el)
+                })
+            } catch(e) { console.error(e) }
+        }
+
+        async function render(path) {
+            if (path.endsWith("/")) path = path.slice(0,-1)
+            const jsonPath = (path === "" || path === "/") ? "/data/links.json" : "/data"+path+".json"
+
+            try {
+                const res = await fetch(jsonPath)
+                if (!res.ok) throw new Error("failed to fetch "+jsonPath)
+                const data = await res.json()
+                main.innerHTML = ""
+
+                // if we're on the index, aka /
+                if (path === "" || path === "/") {
+                    subtitle.style.display = "block"
+                    logo.style.display = "block"
+                    title.textContent = "Mr. Workshop's Download Server"
+                    data.forEach(link => {
+                        if (!link.heading) {
+                            const btn = document.createElement("button")
+                            btn.className = "file"
+                            btn.textContent = link.label
+                            btn.onclick = () => navigate(link.href)
+                            main.appendChild(btn)
+                        }
+                    })
+
+                // if we're on a different page, e.g: /foobar
+                } else {
+                    subtitle.style.display = "none"
+                    logo.style.display = "none"
+                    const name = data.name ? data.name.replace(/v.*$/,"").trim() : ""
+                    title.textContent = name + " - Mr. Workshop's Download Server"
+
+                    const up = document.createElement("div")
+                    up.className = "file clickable"
+                    up.textContent = "../"
+                    up.onclick = () => navigate("/")
+                    main.appendChild(up)
+
+                    data.assets.forEach(asset => {
+                        const row = document.createElement("div")
+                        row.className = "file clickable"
+                        row.style.display = "flex"
+                        row.style.justifyContent = "space-between"
+                        row.onclick = () => window.open(asset.browser_download_url || asset.name)
+
+                        const fname = document.createElement("span")
+                        fname.textContent = asset.name
+                        fname.className = "filename"
+                        const fdate = document.createElement("span")
+                        fdate.textContent = asset.updated_at ? formatDate(asset.updated_at) : "Unknown"
+                        fdate.className = "date"
+                        const fsize = document.createElement("span")
+                        fsize.textContent = typeof asset.size==="number" ? formatSize(asset.size) : asset.size||""
+                        fsize.className = "size"
+
+                        row.appendChild(fname)
+                        row.appendChild(fdate)
+                        row.appendChild(fsize)
+                        main.appendChild(row)
+                    })
+                }
+            } catch(e) { main.textContent="Error loading data."; console.error(e) }
+        }
+
+        function navigate(path) {
+            history.pushState({}, "", path)
+            render(path)
+        }
+
+        window.onpopstate = () => render(window.location.pathname)
+
+        loadSidebar()
+        render(window.location.pathname)
+    </script>
+</body>
+</html>
