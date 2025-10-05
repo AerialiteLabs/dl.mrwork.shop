@@ -15,5 +15,5 @@ python3 server.py
 ```
 
 ## credits
-sophie - writing original
-kxtzownsu - rewrite in vanilla HTML
+- sophie - writing original
+- kxtzownsu - rewrite in vanilla HTML
