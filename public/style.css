@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Terminus';
-    src: url('../Terminus.ttf');
+    src: url('../Terminus.woff2') format('woff2'),
 }
 body {
     display: flex;
