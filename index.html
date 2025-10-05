@@ -111,7 +111,7 @@
                         row.className = "file clickable"
                         row.style.display = "flex"
                         row.style.justifyContent = "space-between"
-                        row.onclick = () => window.open(asset.browser_download_url || asset.name)
+                        row.onclick = () => window.location.href = asset.browser_download_url || asset.name
 
                         const fname = document.createElement("span")
                         fname.textContent = asset.name
