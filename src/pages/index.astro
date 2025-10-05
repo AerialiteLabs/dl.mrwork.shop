@@ -1,6 +1,7 @@
 ---
 import Sidebar from "../components/Sidebar.astro";
 import { getLinks } from "../data/links";
+import { AstroFont } from "astro-font";
 const links = getLinks();
 ---
 
@@ -15,9 +16,42 @@ const links = getLinks();
 	<link rel="stylesheet" href="/style.css">
 	<meta name="viewport" content="width=device-width">
 	<meta name="generator" content={Astro.generator}>
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+	<AstroFont
+		config={[
+			{
+				name: "Terminus",
+				src: [
+					{
+						weight: "400",
+						style: "normal",
+						path: "/Terminus.woff2"
+					}
+				],
+				preload: true,
+				display: "swap",
+				selector: "body",
+				fallback: "monospace",
+			},
+			{
+				name: "Roboto Mono",
+				src: [
+					{
+						weight: "400",
+						style: "normal",
+						path: "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.13.0/fonts/roboto-mono/roboto-mono-v5-latin-regular.woff2"
+					},
+					{
+						weight: "700",
+						style: "normal",
+						path: "https://cdnjs.cloudflare.com/ajax/libs/uswds/3.13.0/fonts/roboto-mono/roboto-mono-v5-latin-700.woff2"
+					}
+				],
+				preload: true,
+				display: "swap",
+				fallback: "monospace",
+			}
+		]}
+	/>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 	<title>Mr. Workshop's Download Server</title>
   </head>

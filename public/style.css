@@ -1,7 +1,3 @@
-@font-face {
-    font-family: 'Terminus';
-    src: url('../Terminus.ttf');
-}
 body {
     display: flex;
     flex-direction: column;
