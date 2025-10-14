@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 215988224,
       "digest": "sha256:a35b4518117778638e750b0afab7d8c1bd1664036e5ab7c086f80f2cf1df9380",
-      "download_count": 0,
+      "download_count": 4,
       "created_at": "2025-09-29T14:10:37Z",
       "updated_at": "2025-09-29T14:10:43Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/ambassador.bin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 159021056,
       "digest": "sha256:801182f350140f40f544987e0f77ab4cd68b2eeff3f119b0cdf53461418a87f4",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:09:20Z",
       "updated_at": "2025-09-29T14:09:24Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/banon.bin"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 207636480,
       "digest": "sha256:a7f7835c52cf81dc8791e51d82f902cf07b343d99fb226596d3bfef19c2843ed",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:32Z",
       "updated_at": "2025-09-29T14:11:37Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/brask.bin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 260139008,
       "digest": "sha256:e07451872227347fea7d95a683621e75ccbc3f29abf789d3dbb1ba73482c310f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:20:14Z",
       "updated_at": "2025-09-29T14:20:23Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/brya.bin"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 187242496,
       "digest": "sha256:ac1e73603ff570ef7f2971091b28f412e83060af5c3ddaa505b872a9aa2f10db",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:37Z",
       "updated_at": "2025-09-29T14:11:44Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/clapper.bin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 189843456,
       "digest": "sha256:a3f234cb1536007dd31c0271eec8014138e12172909bcd3d59dee505057df42f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:09:06Z",
       "updated_at": "2025-09-29T14:09:11Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/coral.bin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 354752512,
       "digest": "sha256:3e76082523ad13f05b1b97350ca1e1d2c366ec9989fb7f3072bf306fdb4f8653",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:47Z",
       "updated_at": "2025-09-29T14:17:02Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/corsola.bin"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 159062016,
       "digest": "sha256:ea697a753d82c66bf859ebd33e04f0555e82447f2fa03ccedb4c37aeb9d6d545",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:05Z",
       "updated_at": "2025-09-29T14:16:09Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/cyan.bin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 247724032,
       "digest": "sha256:ff90bb4ddbc7f463194e5764bfda22a538e9ad941d2b7374b188eb73586feb40",
-      "download_count": 1,
+      "download_count": 8,
       "created_at": "2025-09-29T14:18:09Z",
       "updated_at": "2025-09-29T14:18:16Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/dedede.bin"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 151820288,
       "digest": "sha256:11496f33444fd93f34fb4b97f524327d7824d838a670b4a6009b228028e3897c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:18:11Z",
       "updated_at": "2025-09-29T14:18:17Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/edgar.bin"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 148596736,
       "digest": "sha256:1b33affc0f2f7bc6e6e46b2b36cc8501f92f286ee0f6cfcbff2aa77efd54aee8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:14:23Z",
       "updated_at": "2025-09-29T14:14:27Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/elm.bin"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 145713152,
       "digest": "sha256:1770fe250de0ca098320ddeffe69ae35fddb9cacfa7a9bb7492db4c73187b4ed",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:10:19Z",
       "updated_at": "2025-09-29T14:10:25Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/enguarde.bin"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 178300928,
       "digest": "sha256:394f1793e704091eca9e0031f1092a9bf2a3ce8d041aff75d31466502d921ec3",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:14:20Z",
       "updated_at": "2025-09-29T14:14:26Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/fizz.bin"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 187242496,
       "digest": "sha256:e004d0e57fd95c5942ba09ff80366851b055891b7c525985ecb4305167ac39ea",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:17:08Z",
       "updated_at": "2025-09-29T14:17:17Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/glimmer.bin"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 189945856,
       "digest": "sha256:d4abb55b2966879ab83a5b3dfefb5f260b33b8ad93c737ed1dd4fa905cf2df1b",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2025-09-29T14:15:52Z",
       "updated_at": "2025-09-29T14:15:57Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/grunt.bin"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 146753536,
       "digest": "sha256:74f73be8f5c2e37540b16cface223361cf6eab081ea5d4f97df38a3841df8203",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:13:44Z",
       "updated_at": "2025-09-29T14:13:48Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/hana.bin"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 344553472,
       "digest": "sha256:dfc0a52f6ae090efc2b777a8e14a89f80b584429fe009d907d147ab6c828f7f7",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:21:45Z",
       "updated_at": "2025-09-29T14:21:52Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/hatch.bin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 313563136,
       "digest": "sha256:7b976a588568f48a1d82aeda17261b02a41d53939a665b22b485deec685fe8fc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:14:22Z",
       "updated_at": "2025-09-29T14:14:35Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/jacuzzi.bin"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 198834176,
       "digest": "sha256:c1793bc2c07451a05850efdf02f6119e743957060dce61001ec94772973b9eca",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:15:01Z",
       "updated_at": "2025-09-29T14:15:07Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/kalista.bin"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 159508480,
       "digest": "sha256:b78f6ba9a1028dfdbfbfcf572bc4b45a63954a7351a4e6f11f456a4c659612ca",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:15:37Z",
       "updated_at": "2025-09-29T14:15:43Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/kefka.bin"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 311015424,
       "digest": "sha256:65d4d50e573c6c3a549fd8a7dad7020e06f9d87a7fedb84814b7d6a39567e692",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:13:14Z",
       "updated_at": "2025-09-29T14:13:25Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/kukui.bin"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 150202368,
       "digest": "sha256:0db69cc08ca085f631816e2f75e4d5923341a134633ed93f0d13acf4e7b3fb48",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:35Z",
       "updated_at": "2025-09-29T14:16:40Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/lulu.bin"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 187746304,
       "digest": "sha256:0b87d35b6c31450eaa2bdfdb5b481a3b0fbaf01f765babc619df98c75b61fb44",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:17:47Z",
       "updated_at": "2025-09-29T14:17:53Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/nami.bin"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 401352704,
       "digest": "sha256:96fc95c0dfaeb3aede852301f12bdbcacf8b60a488cefa0393a092b5aa61823f",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2025-09-29T14:18:44Z",
       "updated_at": "2025-09-29T14:18:59Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/nissa.bin"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 347699200,
       "digest": "sha256:99404189798ce0e4371888eab7f1f0913dcdff9343f2f7d7a6afff486bf39765",
-      "download_count": 0,
+      "download_count": 7,
       "created_at": "2025-09-29T14:12:40Z",
       "updated_at": "2025-09-29T14:12:51Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/octopus.bin"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 146638848,
       "digest": "sha256:3c63d62f0c03cd96b26ddbfbba91123c378a0edb284b049c4ab4c3b8c4ce5157",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:17:15Z",
       "updated_at": "2025-09-29T14:17:19Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/orco.bin"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 202184704,
       "digest": "sha256:01bdd87afcf292940966f9d4c1a2f080e86e6b3fb61e16699e334849fa87f4e1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:52Z",
       "updated_at": "2025-09-29T14:17:00Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/puff.bin"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 164702208,
       "digest": "sha256:808d418129d9eab99362500ba97a8b226581ced6f4e5a896e545f3a6b48ffa46",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:10:19Z",
       "updated_at": "2025-09-29T14:10:24Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/pyro.bin"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 162375680,
       "digest": "sha256:e8a734c9107aa9d0d30a657df72bfd7585d53c5d6b45f25a6aa3875b46e824f7",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:15:49Z",
       "updated_at": "2025-09-29T14:15:56Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/reef.bin"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 159197184,
       "digest": "sha256:8cbb7ff724698885594ee64c44331dd431e7afea2650d90724226670c6678b6d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:14:29Z",
       "updated_at": "2025-09-29T14:14:33Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/reks.bin"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 159598592,
       "digest": "sha256:5740563a77a172b82a095a22b74a2ecd7e77153ac7a66fd95ca1098100c1de91",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:17:34Z",
       "updated_at": "2025-09-29T14:17:38Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/relm.bin"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 164743168,
       "digest": "sha256:dfe308732131b8720b9e5c5fcd06c2135a17b8b36d8752e494185e42d4d8fe7c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:15:27Z",
       "updated_at": "2025-09-29T14:15:34Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/sand.bin"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 166283264,
       "digest": "sha256:a06150ab65314bf23401b68b5beb2887797344419c2e66d389c721fafd1a0f90",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:18:02Z",
       "updated_at": "2025-09-29T14:18:08Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/sentry.bin"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 163227648,
       "digest": "sha256:14fd0036eaf5d3534e1c3932c834f7efb3a3707c5cc3a1a9465dc979c93c9f01",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-29T14:17:08Z",
       "updated_at": "2025-09-29T14:17:12Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/snappy.bin"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 363370496,
       "digest": "sha256:eb38ad78a7cb4f29e93510202c85d754af867fea959bc86d33e35fe04a286d42",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:02Z",
       "updated_at": "2025-09-29T14:16:12Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/stout.bin"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 247711744,
       "digest": "sha256:2023b3c60c66e196017fed324063171345003e828e0184937a0f5dcfc148e8a2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:18:34Z",
       "updated_at": "2025-09-29T14:18:40Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/strongbad.bin"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 164431872,
       "digest": "sha256:808b2b9aa8303fc3390c7853e3b5ada34737bc876c057ed09e7595871bb40792",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:13:07Z",
       "updated_at": "2025-09-29T14:13:12Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/tidus.bin"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 247490560,
       "digest": "sha256:713b7a5f4be5fa7bd787a66e71ec5827eaa4454fda7db9680ff7e7efb0bba8ba",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-29T14:13:23Z",
       "updated_at": "2025-09-29T14:13:31Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/trogdor.bin"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 158672896,
       "digest": "sha256:e04351680cfa6e9e3cfe7c43a1ac5dd9e523c0fb020f552f091e4383e405efe0",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:00Z",
       "updated_at": "2025-09-29T14:16:06Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/ultima.bin"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 232044544,
       "digest": "sha256:0b77e59ab25cb9949ee65c030202662034fde9b599509878a517ed7cc46d0469",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:18:29Z",
       "updated_at": "2025-09-29T14:18:36Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/volteer.bin"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 340334592,
       "digest": "sha256:c9e6667c261ce429ff1ef731a1bd3304203cec41568092e94909c620d1ce7b0c",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-29T14:18:05Z",
       "updated_at": "2025-09-29T14:18:18Z",
       "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v2.0.0/zork.bin"

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:1ceddfcea70a387f6dae5c4075e217b1c749cdb06a9c9118bd4ecebeb461cad5",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:13Z",
       "updated_at": "2025-09-29T14:07:15Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-ambassador.bin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:2b348adb446aade55fae7f9e2a83b9d3e49eefa692e1c1697d2f2f45b415ab1f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:38Z",
       "updated_at": "2025-09-29T14:07:40Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-banon.bin"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 46154752,
       "digest": "sha256:5fe57d8873630915982df50f6678333ba82f76e165892a4fd8a6df36584986c5",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-29T14:15:19Z",
       "updated_at": "2025-09-29T14:15:21Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-brask.bin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 46154752,
       "digest": "sha256:ac98c1b7064ae701d7490a16bc512d8c9dc845b413e8f4acb0c8e7509306a6b7",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:09:59Z",
       "updated_at": "2025-09-29T14:10:01Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-brya.bin"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 38814720,
       "digest": "sha256:588c5157faa1715be2ebed95270b4d01120c453ae681634c581689873f7603cb",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:27Z",
       "updated_at": "2025-09-29T14:07:28Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-clapper.bin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 30426112,
       "digest": "sha256:2a0c8ea4bbefd2450a7624ac7b9560e7f879f38bf6230cf38a571703b3c499a4",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:08:40Z",
       "updated_at": "2025-09-29T14:08:42Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-coral.bin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:0aa53db2f328f347781f53c3ec7ff0fea78c9dea8ae4169a409c98086aed1c61",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:54Z",
       "updated_at": "2025-09-29T14:07:56Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-corsola.bin"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:6ddac4e0a2f5c711f1afd4d1829f7c0b9415cb7c3a055d921e548db8939ce60e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:08:40Z",
       "updated_at": "2025-09-29T14:08:41Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-cyan.bin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:8f90ede81af51a08e592cf5a386b4feb08812fa94f2015519d6eb3f0e3d6e23b",
-      "download_count": 0,
+      "download_count": 8,
       "created_at": "2025-09-29T14:07:33Z",
       "updated_at": "2025-09-29T14:07:35Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-dedede.bin"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:40afa8871fded39cb319bac9835bad4f29cfc875b12d363630f0f467334cb22d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:11Z",
       "updated_at": "2025-09-29T14:07:13Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-edgar.bin"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 27280384,
       "digest": "sha256:07873333d28222938853f27b554b18dd0e6d974089f0c545fdeaf51f27233800",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:06:40Z",
       "updated_at": "2025-09-29T14:06:41Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-elm.bin"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 36717568,
       "digest": "sha256:6b991e1ae43ca232c0d56880d5b90d2487b0c059806af0ff2fd13ab212a17f79",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:06:31Z",
       "updated_at": "2025-09-29T14:06:32Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-enguarde.bin"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 30426112,
       "digest": "sha256:fb7267b940a259334fda4100694807ed19d7fd57a538b6d57c6628e3cb7260cd",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:33Z",
       "updated_at": "2025-09-29T14:07:34Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-fizz.bin"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 38814720,
       "digest": "sha256:897266a7bebc3287157c2c80f061f059543b91ab18d069619962bccd5bb0ebd5",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:09:49Z",
       "updated_at": "2025-09-29T14:09:50Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-glimmer.bin"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 30426112,
       "digest": "sha256:58940f22f67781ab6978d23588168eb48e6f7156c872ba402ea3bfbfbeddaa37",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-09-29T14:06:15Z",
       "updated_at": "2025-09-29T14:06:16Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-grunt.bin"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 27280384,
       "digest": "sha256:a175925d4df9ce74459fc6b6b6ffcbcf3eb6b1a213da44ccf166a0f26f7c3444",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:10:38Z",
       "updated_at": "2025-09-29T14:10:39Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-hana.bin"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 46154752,
       "digest": "sha256:c587e3b6b43100ee8823825db79856b6cfbc21257b746a5e085d818a7ad56179",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:13:39Z",
       "updated_at": "2025-09-29T14:13:41Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-hatch.bin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 44057600,
       "digest": "sha256:11f926075d05bf9345bc5532a9abdbe2a7ccc25f81ba0d01319e652b675784c1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:50Z",
       "updated_at": "2025-09-29T14:11:52Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-jacuzzi.bin"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 47203328,
       "digest": "sha256:20da6e37662f2daf6b94acd4a1de7a4c836a43475d3f3a9a99b9228b1a4e887c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:39Z",
       "updated_at": "2025-09-29T14:07:41Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-kalista.bin"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:924b8b1bb0b448c86001be8949144004151c473ce7562671a98c75d2d0aa18af",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:06:55Z",
       "updated_at": "2025-09-29T14:06:56Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-kefka.bin"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 44057600,
       "digest": "sha256:0dc5467eeee0bb08fb48716860d1ffaf8810d2fc2ef723927ac1a7d0bacab277",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:53Z",
       "updated_at": "2025-09-29T14:07:55Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-kukui.bin"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 36717568,
       "digest": "sha256:ff805f453674d788b53fa2e0852f006a2946f8c62be5d32cfca7784c1da9fa32",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:10Z",
       "updated_at": "2025-09-29T14:11:11Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-lulu.bin"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 30426112,
       "digest": "sha256:6c90cbeb26c34994d26d3a2fb7b31ce65940c4344c9f5173d4c8ac805265fe6e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:52Z",
       "updated_at": "2025-09-29T14:07:53Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-nami.bin"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:523b1e933c9e1ef1ca1b2fc2be160504f28f3b6a984f7e9e0feed733544fbe57",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2025-09-29T14:13:17Z",
       "updated_at": "2025-09-29T14:13:18Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-nissa.bin"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 47203328,
       "digest": "sha256:fa1b4cd0df1eeee54bb45df70811f91ddd6f29bb1bed6bcc87ec64525cd5ed69",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2025-09-29T14:11:45Z",
       "updated_at": "2025-09-29T14:11:46Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-octopus.bin"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 36717568,
       "digest": "sha256:8dc261dffcabdcc2ef94ef30c8d7af37ac0c8fc4dae1c1a2cbedff42609b388d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:13Z",
       "updated_at": "2025-09-29T14:07:14Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-orco.bin"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:b4aa5c385292eb65aef1f357e0adb04aea15a4a0e4ddecdcdbe3a47300369ae1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:15:37Z",
       "updated_at": "2025-09-29T14:15:38Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-puff.bin"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 31474688,
       "digest": "sha256:33a7f351e94c8aa0e110ebe12ff4bc80d3eb3ed213a1abc0855c1a201f071ac4",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:18Z",
       "updated_at": "2025-09-29T14:16:20Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-pyro.bin"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 31474688,
       "digest": "sha256:1cc613020d6ee08d82711756da009fd4e956ea5f01279349a57834c7091d8377",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:08:32Z",
       "updated_at": "2025-09-29T14:08:34Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-reef.bin"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:331a2a690504699420f57e8442d84d64d198936df9b53790846666c650115db3",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:12:48Z",
       "updated_at": "2025-09-29T14:12:49Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-reks.bin"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:101cd004dd030249f07badab9ea413cf42f73bb713e6757b8dfdbb6067b41679",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:07:27Z",
       "updated_at": "2025-09-29T14:07:29Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-relm.bin"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 31474688,
       "digest": "sha256:e3e30ced93ef47085e8f3eb2617d7caad4086a78db5aa89726e2448ae7a0dcd2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:15:25Z",
       "updated_at": "2025-09-29T14:15:27Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-sand.bin"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 29377536,
       "digest": "sha256:0e164179480dd54aa8ea80930bc1eb517eca74d9c48abc4a37011f44e39f061f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:25Z",
       "updated_at": "2025-09-29T14:11:26Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-sentry.bin"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 31474688,
       "digest": "sha256:1c110d59657df80a0f95a97ece48ac27bdc499d4718f1eede064b6a362f8a7dc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:13:45Z",
       "updated_at": "2025-09-29T14:13:46Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-snappy.bin"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 35668992,
       "digest": "sha256:f1457398d0237a21748c80ae599f7d2141540edfd62e6c36ea869f169c51dfb3",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:17Z",
       "updated_at": "2025-09-29T14:11:19Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-stout.bin"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 43009024,
       "digest": "sha256:a155506d152e2e5c585b3553d641b6c66afc2e3f7cb022db449d880a7fab7e9c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:18:34Z",
       "updated_at": "2025-09-29T14:18:36Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-strongbad.bin"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 37766144,
       "digest": "sha256:6ee76d6831ff279d13129c8d0d45c8e3722246a635b3950fa118cc1d75574b56",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:13:12Z",
       "updated_at": "2025-09-29T14:13:13Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-tidus.bin"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 43009024,
       "digest": "sha256:d4794568552faa3d451c233e28282565114e7f72a12bf2d26ccb95325ca46b3a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:12:10Z",
       "updated_at": "2025-09-29T14:12:12Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-trogdor.bin"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:ed595cffef0883c45d79ab444ae587a6e70f7ec117cb4428c8fd7a522df70181",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:11:51Z",
       "updated_at": "2025-09-29T14:11:52Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-ultima.bin"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:fb4ce6b47ba55d7ec8b8a5dee11792d0fee1e3496c1ea671618f1454e035d2bc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:12:21Z",
       "updated_at": "2025-09-29T14:12:23Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-volteer.bin"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:d312cfcc18654399bac434d65c60529ef8ab0ef194411eb5667ae89b58ea7395",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-09-29T14:16:35Z",
       "updated_at": "2025-09-29T14:16:36Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-zork.bin"
