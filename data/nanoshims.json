@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 486577664,
       "digest": "sha256:3aaac83f230c19e395366100e500b8e95b20f8b8a1e306bdb4d2686d9c321c95",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:37:31Z",
       "updated_at": "2025-10-15T11:37:47Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/clapper.bin"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 486577664,
       "digest": "sha256:03af1d891d73769ac98c40e37db97cf37768cabdc616797407dcbe7b1a01b2e2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:37:07Z",
       "updated_at": "2025-10-15T11:37:19Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/glimmer.bin"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 520131584,
       "digest": "sha256:d9a945f714594be29a00f5670bccf0be70e75b140b5bedd5c56b929ec136015c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:37:18Z",
       "updated_at": "2025-10-15T11:37:31Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/hana.bin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 564171264,
       "digest": "sha256:3004f33a988945bbaa7e33a3d654427815dba89b63e12886326a98bdacf66297",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:37:10Z",
       "updated_at": "2025-10-15T11:37:31Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/jacuzzi.bin"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 503354368,
       "digest": "sha256:c171ce96c6aa56dbf782a1993d7d4a456435b7559fda3d61fa2209c1ad08b58b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:37:28Z",
       "updated_at": "2025-10-15T11:37:40Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/reks.bin"

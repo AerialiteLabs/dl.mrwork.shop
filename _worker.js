@@ -17,6 +17,7 @@ export default {
         "sh67mmer.json",
         "kvs.json",
         "aurora.json",
+        "beta-aurora.json",
         "br0ker.json"
       ]
 
