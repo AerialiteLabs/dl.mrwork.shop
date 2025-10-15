@@ -28,7 +28,7 @@
   "node_id": "RE_kwDOO-FFfs4PKTtd",
   "tag_name": "v2.0.0",
   "target_commitish": "alpine",
-  "name": "Aurora v2.0.0",
+  "name": "Aurora Beta v2.0.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 261490688,
       "digest": "sha256:7e502bc365d9b03c043abc5eb6a0853ac0e5e931fc041c86a7b382e136cd421e",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-10-14T13:09:25Z",
       "updated_at": "2025-10-14T13:09:32Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v2.0.0/dedede-aurora.bin"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 203631616,
       "digest": "sha256:4ac977ac45ca1f1604b4c333ad84373294d6e1fea861aebf0e9c3f78a5abb661",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-14T13:09:09Z",
       "updated_at": "2025-10-14T13:09:15Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v2.0.0/grunt-aurora.bin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 192411648,
       "digest": "sha256:9fa963ace6bbd226677e35c39df7eb0a425821dcfe3402257987c02cede37411",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-14T13:07:56Z",
       "updated_at": "2025-10-14T13:08:02Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v2.0.0/jacuzzi-aurora.bin"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 205009920,
       "digest": "sha256:de9a2040604f0bcf84274163443722be97b171b5685f376281dc13fb2449abdb",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-14T13:09:57Z",
       "updated_at": "2025-10-14T13:10:03Z",
       "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v2.0.0/octopus-aurora.bin"

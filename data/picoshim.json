@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 45106176,
       "digest": "sha256:1ceddfcea70a387f6dae5c4075e217b1c749cdb06a9c9118bd4ecebeb461cad5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2025-09-29T14:07:13Z",
       "updated_at": "2025-09-29T14:07:15Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-ambassador.bin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 28328960,
       "digest": "sha256:2b348adb446aade55fae7f9e2a83b9d3e49eefa692e1c1697d2f2f45b415ab1f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2025-09-29T14:07:38Z",
       "updated_at": "2025-09-29T14:07:40Z",
       "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-banon.bin"
