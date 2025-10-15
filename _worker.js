@@ -12,7 +12,6 @@ export default {
       const candidates = [
         "sh1mmer.json",
         "picoshim.json",
-        "shimboot.json",
         "nanoshims.json",
         "sh67mmer.json",
         "kvs.json",
