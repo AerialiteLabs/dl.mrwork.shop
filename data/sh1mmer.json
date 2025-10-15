@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 283985920,
       "digest": "sha256:a5981a78625602d7e3bb5aea63a4844e9cdfdea33b79629779a2add7814495fd",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:34Z",
       "updated_at": "2025-10-15T11:45:43Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/ambassador.bin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 227018752,
       "digest": "sha256:792a9b2bf5850be30f2cd021328fed1b3ceaa111792699594e64b4140f1ec37a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:46Z",
       "updated_at": "2025-10-15T11:45:56Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/banon.bin"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 275646464,
       "digest": "sha256:4d6d1be453ab7dc8b2d3857e4ef0673eebb8b9071417717ac4a58f0661390dd5",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:22Z",
       "updated_at": "2025-10-15T11:47:33Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/brask.bin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 328148992,
       "digest": "sha256:30400aacde6b9a07425a5fa9871d421003f496169f9a3726d0c1f35c94700f4b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:50:05Z",
       "updated_at": "2025-10-15T11:50:12Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/brya.bin"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 255232000,
       "digest": "sha256:f4d58a857b0854b68883281376f3af38213d3b5e67111f31776fa22d13530128",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:46:51Z",
       "updated_at": "2025-10-15T11:47:01Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/clapper.bin"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 257837056,
       "digest": "sha256:8f451648f80cef68bdf3fd86b24306a63ab3aa3bc0b890418a8bcd7df5cb16a1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:29Z",
       "updated_at": "2025-10-15T11:45:36Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/coral.bin"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 423020544,
       "digest": "sha256:6ad358e36944f1409e2c22a349475fed6dd5413534c67f6b039b654c449ba304",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:48:37Z",
       "updated_at": "2025-10-15T11:48:57Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/corsola.bin"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 227059712,
       "digest": "sha256:11c9914167459ed52a24799fc3a6ae76e7bb8d291285d3877d209053d251e34a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:03Z",
       "updated_at": "2025-10-15T11:47:10Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/cyan.bin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 315721728,
       "digest": "sha256:ee1b274424beffcfdc2712a1a59ec155eff8c576551f7e80cf309c988b9e9009",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2025-10-15T11:45:55Z",
       "updated_at": "2025-10-15T11:46:05Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/dedede.bin"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 219817984,
       "digest": "sha256:8da088a3417f5d0de0ae9ddf3aaf7fec2d631fbd3c303665f1d389aaa03a7140",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:58Z",
       "updated_at": "2025-10-15T11:46:07Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/edgar.bin"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 216852480,
       "digest": "sha256:bb0ad4fe8c4f620337650b46d53730fece0e33f1ca785019c94eea7f2cad0d8c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:33Z",
       "updated_at": "2025-10-15T11:45:39Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/elm.bin"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 213706752,
       "digest": "sha256:a602ce2b19d449b17845ae60d420044cc7391633b32ae6da2475ce69b4c7e5db",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:49:14Z",
       "updated_at": "2025-10-15T11:49:19Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/enguarde.bin"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 246298624,
       "digest": "sha256:9eeadd989aabcc724cfd88712ae9a8aaaf260fab4b5dd0aec46ece8d71637715",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:46:48Z",
       "updated_at": "2025-10-15T11:46:57Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/fizz.bin"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 257943552,
       "digest": "sha256:7437c7e2b833df01c0b7f730de6c6a8dadbcd7d9187ddeea98bbde94e07fa150",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:49:10Z",
       "updated_at": "2025-10-15T11:49:18Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/grunt.bin"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 215009280,
       "digest": "sha256:54b25a1a612c779f28a9d5af5a3aa57f07b2a276b85b6d492cfd8f85a8b0e527",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:49:09Z",
       "updated_at": "2025-10-15T11:49:14Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/hana.bin"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 412551168,
       "digest": "sha256:5bd01d2229d8bf9646135c66692a791eddfea88117795540bfb0844db5a6a946",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:58Z",
       "updated_at": "2025-10-15T11:48:09Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/hatch.bin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 381814784,
       "digest": "sha256:dda348137d44a4a9a442761bfa72750f5c76d13a36ad11fe6e2896b085cb6d3f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:31Z",
       "updated_at": "2025-10-15T11:47:40Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/jacuzzi.bin"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 382793728,
       "digest": "sha256:cece3e106893798358733d442f080d7bbea8458e7a88a2815c148bf409a2fed2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:48:44Z",
       "updated_at": "2025-10-15T11:48:53Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/jacuzzi_makomo.bin"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 266827776,
       "digest": "sha256:c4d828c56341bef49c3a13bdef393c111bf5fcf5ee478426ee487add7b71f699",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:46:05Z",
       "updated_at": "2025-10-15T11:46:12Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/kalista.bin"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 227506176,
       "digest": "sha256:8df5ea0a1b9ce26946c880351f8bb2f26efa21cc0c50aa1b123fadfd12937a9f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:39Z",
       "updated_at": "2025-10-15T11:47:45Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/kefka.bin"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 218195968,
       "digest": "sha256:32674b94bc215edf7556d3b85d17f24a8161774ecc87fe2e01faea9b93a36e93",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:10Z",
       "updated_at": "2025-10-15T11:47:15Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/lulu.bin"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 255744000,
       "digest": "sha256:ca82c6fdea710a93608a2224199db35c86ba87f155742ca2c89ae84eadfc8f31",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:38Z",
       "updated_at": "2025-10-15T11:47:49Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/nami.bin"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 415696896,
       "digest": "sha256:74874752d9d2640ea462eb5fb67f41198e6a4f957a02b214b1b5aa2bb4c16b22",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:49:18Z",
       "updated_at": "2025-10-15T11:49:28Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/octopus.bin"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 214632448,
       "digest": "sha256:125aa5ba6ae099dac85ebc8723be6a8c0153038ede2ed79556d9b08f347a411d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:18Z",
       "updated_at": "2025-10-15T11:45:23Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/orco.bin"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 270182400,
       "digest": "sha256:8b852c51b40c4ef24edac3e54dbb5ff8747c40ffc958d836c29ff8ff36ca9188",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:56Z",
       "updated_at": "2025-10-15T11:46:02Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/puff.bin"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 232699904,
       "digest": "sha256:f2b5b97dd1b939c212a0179251775b4efe78147dc16bb9d96a0d750ca4be65de",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:53Z",
       "updated_at": "2025-10-15T11:48:00Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/pyro.bin"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 227194880,
       "digest": "sha256:0c6b75923e7746f189058cb6f8b13f8f5328afb0063d28d3abc0557f3897f172",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:48:43Z",
       "updated_at": "2025-10-15T11:48:50Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/reks.bin"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 227596288,
       "digest": "sha256:0f72457e72fc0fe159dc242c25eb40b8a261e4dc45d9ffebd7c472fedb3e5443",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:49:00Z",
       "updated_at": "2025-10-15T11:49:11Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/relm.bin"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 232740864,
       "digest": "sha256:267bfa57f0ee1e7a68cfa27f909fc08f82862712cd10a8449dd4b6322aa735e1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:48:13Z",
       "updated_at": "2025-10-15T11:48:18Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/sand.bin"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 234280960,
       "digest": "sha256:ccdfae44e4e559374f2cf6b61d682f6f94d68fcf49ac4f22a89fac2e4b7fa50d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:47:05Z",
       "updated_at": "2025-10-15T11:47:14Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/sentry.bin"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 315967488,
       "digest": "sha256:f84694427911a94be12dde9a5005a8d29a1309c01e185da99572c080d36833ec",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:46:44Z",
       "updated_at": "2025-10-15T11:46:57Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/strongbad.bin"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 232425472,
       "digest": "sha256:e93bce33d76c36f28c2e08ce680d27643b62750fbc308adcffc4189b48a67b44",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:49:02Z",
       "updated_at": "2025-10-15T11:49:08Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/tidus.bin"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 226670592,
       "digest": "sha256:e124c5d48bee7b59a1cfc331e193ea912b5d5e5b18ca422ae9e7f68cacd4f364",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:45:42Z",
       "updated_at": "2025-10-15T11:45:50Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/ultima.bin"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 300042240,
       "digest": "sha256:593d926a40810ff2ddafdf24888a914a0c5a4e941bf59009351e9852d951733e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:50:08Z",
       "updated_at": "2025-10-15T11:50:16Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/volteer.bin"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 408332288,
       "digest": "sha256:f8b31e1e631ad098e08733327f0afcb0bce23f9b15c1bcc184b887a3043ef400",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2025-10-15T11:46:41Z",
       "updated_at": "2025-10-15T11:46:59Z",
       "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v2.0.0/zork.bin"
